@@ -1,0 +1,184 @@
+[
+  {
+    "sid": "S00",
+    "title": "Cover",
+    "first": 1,
+    "last": 1,
+    "summarise": false
+  },
+  {
+    "sid": "S01",
+    "title": "Press release and Board assessment",
+    "first": 2,
+    "last": 6,
+    "summarise": true
+  },
+  {
+    "sid": "S02",
+    "title": "Key issues",
+    "first": 6,
+    "last": 6,
+    "summarise": true
+  },
+  {
+    "sid": "S03",
+    "title": "Mission and contents",
+    "first": 7,
+    "last": 7,
+    "summarise": false
+  },
+  {
+    "sid": "S04",
+    "title": "Contents list",
+    "first": 7,
+    "last": 8,
+    "summarise": false
+  },
+  {
+    "sid": "S05",
+    "title": "Context",
+    "first": 9,
+    "last": 10,
+    "summarise": true
+  },
+  {
+    "sid": "S06",
+    "title": "Recent developments",
+    "first": 10,
+    "last": 14,
+    "summarise": true
+  },
+  {
+    "sid": "S07",
+    "title": "Outlook and risks",
+    "first": 15,
+    "last": 18,
+    "summarise": true
+  },
+  {
+    "sid": "S08",
+    "title": "A. Preserving fiscal sustainability",
+    "first": 18,
+    "last": 23,
+    "summarise": true
+  },
+  {
+    "sid": "S09",
+    "title": "B. Monetary and financial sector frameworks",
+    "first": 23,
+    "last": 25,
+    "summarise": true
+  },
+  {
+    "sid": "S10",
+    "title": "C. Structural reforms",
+    "first": 25,
+    "last": 27,
+    "summarise": true
+  },
+  {
+    "sid": "S11",
+    "title": "Other surveillance issues",
+    "first": 27,
+    "last": 28,
+    "summarise": true
+  },
+  {
+    "sid": "S12",
+    "title": "Staff appraisal",
+    "first": 28,
+    "last": 29,
+    "summarise": true
+  },
+  {
+    "sid": "S13",
+    "title": "Figures and statistical tables",
+    "first": 30,
+    "last": 39,
+    "summarise": true
+  },
+  {
+    "sid": "S14",
+    "title": "Annex I. Debt sustainability analysis",
+    "first": 40,
+    "last": 46,
+    "summarise": true
+  },
+  {
+    "sid": "S15",
+    "title": "Annex II. External stability assessment",
+    "first": 47,
+    "last": 50,
+    "summarise": true
+  },
+  {
+    "sid": "S16",
+    "title": "Annex III. Risk assessment matrix",
+    "first": 51,
+    "last": 52,
+    "summarise": true
+  },
+  {
+    "sid": "S17",
+    "title": "Annex IV. Resilient scenario",
+    "first": 53,
+    "last": 55,
+    "summarise": true
+  },
+  {
+    "sid": "S18",
+    "title": "Annex V. FSAP follow-up",
+    "first": 56,
+    "last": 60,
+    "summarise": true
+  },
+  {
+    "sid": "S19",
+    "title": "Annex VI. Diamond sector",
+    "first": 61,
+    "last": 63,
+    "summarise": true
+  },
+  {
+    "sid": "S20",
+    "title": "Annex VII. Capacity development",
+    "first": 64,
+    "last": 66,
+    "summarise": true
+  },
+  {
+    "sid": "S21",
+    "title": "Annex VIII. Responses to past advice",
+    "first": 67,
+    "last": 68,
+    "summarise": true
+  },
+  {
+    "sid": "S22",
+    "title": "Annex IX. Data issues",
+    "first": 69,
+    "last": 70,
+    "summarise": true
+  },
+  {
+    "sid": "S23",
+    "title": "Annex X. Fiscal multipliers",
+    "first": 71,
+    "last": 79,
+    "summarise": true
+  },
+  {
+    "sid": "S24",
+    "title": "Informational annex",
+    "first": 79,
+    "last": 82,
+    "summarise": true
+  },
+  {
+    "sid": "S25",
+    "title": "Executive Director's statement",
+    "first": 82,
+    "last": 87,
+    "summarise": true
+  }
+]

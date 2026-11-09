@@ -1,0 +1,543 @@
+[
+  {
+    "sid": "S01",
+    "title": "Press release and Board assessment",
+    "pages": "2-6",
+    "first_draft": "The consultation concludes that Botswana’s macroeconomic outlook has deteriorated markedly, with economic activity contracting by 3 percent in 2024 and projected to contract by 1 percent in 2025. The fiscal deficit rose to 7.1 percent of GDP in FY24/25 and is expected to widen to over 8 percent of GDP in FY25/26, while international reserves fell to $3.5 billion at end-July 2025. Directors primarily urged the authorities to adopt an ambitious medium-term fiscal consolidation plan to rebuild buffers while protecting priority investment and social spending.",
+    "first_marks": [
+      5,
+      4,
+      5
+    ],
+    "first_faults": [],
+    "first_unsourced": [],
+    "revised": null,
+    "kept": "first",
+    "summary": "The consultation concludes that Botswana’s macroeconomic outlook has deteriorated markedly, with economic activity contracting by 3 percent in 2024 and projected to contract by 1 percent in 2025. The fiscal deficit rose to 7.1 percent of GDP in FY24/25 and is expected to widen to over 8 percent of GDP in FY25/26, while international reserves fell to $3.5 billion at end-July 2025. Directors primarily urged the authorities to adopt an ambitious medium-term fiscal consolidation plan to rebuild buffers while protecting priority investment and social spending.",
+    "words": 85,
+    "consistency": 5,
+    "completeness": 4,
+    "factual_alignment": 5,
+    "unsourced": []
+  },
+  {
+    "sid": "S02",
+    "title": "Key issues",
+    "pages": "6-6",
+    "first_draft": "Botswana faces ongoing economic contraction due to weak diamond demand, with the fiscal deficit expected to increase to more than 8 percent of GDP this year, threatening a sharp rise in public debt and further declines in international reserves. To address these vulnerabilities, the report recommends urgent fiscal consolidation to stabilize medium-term public debt through revenue mobilization and spending containment, while tightening monetary policy to support the crawling peg and advancing structural reforms to foster private sector growth and diversification.",
+    "first_marks": [
+      5,
+      5,
+      5
+    ],
+    "first_faults": [],
+    "first_unsourced": [],
+    "revised": null,
+    "kept": "first",
+    "summary": "Botswana faces ongoing economic contraction due to weak diamond demand, with the fiscal deficit expected to increase to more than 8 percent of GDP this year, threatening a sharp rise in public debt and further declines in international reserves. To address these vulnerabilities, the report recommends urgent fiscal consolidation to stabilize medium-term public debt through revenue mobilization and spending containment, while tightening monetary policy to support the crawling peg and advancing structural reforms to foster private sector growth and diversification.",
+    "words": 80,
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsourced": []
+  },
+  {
+    "sid": "S05",
+    "title": "Context",
+    "pages": "9-10",
+    "first_draft": "Botswana faces a markedly deteriorated macroeconomic outlook following a persistent decline in natural diamond demand, which led to a sharp economic contraction in 2024 alongside widening fiscal and current account deficits. Buffeted by historical shocks from 2008, 2014, and 2020, rapid depletion of external reserves and fiscal buffers has placed the country at a critical juncture. The section recommends urgent action to arrest this deterioration and stabilize the macroeconomic outlook, specifically by advancing delayed fiscal consolidation and adopting reforms to foster economic diversification.",
+    "first_marks": [
+      5,
+      3,
+      5
+    ],
+    "first_faults": [
+      "The summary omits key information from Paragraph 3 regarding the new government that took office in November 2024, its economic program and pledges, and the initiation of austerity measures.",
+      "The summary omits the overview of implementation progress for the 2024 Article IV and FSAP recommendations from Paragraph 4."
+    ],
+    "first_unsourced": [],
+    "revised": "Botswana’s macroeconomic outlook deteriorated markedly, culminating in a sharp 2024 economic contraction. To arrest deterioration and stabilize the outlook, the section recommends urgent action, notably advancing fiscal consolidation and economic diversification. In office since November 2024, the new Umbrella for Democratic Change government pledged higher wages and launched the Botswana Economic Transformation Program, but initiated austerity measures facing sharp fiscal pressures. Meanwhile, implementation of 2024 Article IV and FSAP recommendations remains mixed, showing progress in taxing digital services and developing bond markets, but limited wider fiscal reform.",
+    "kept": "revision",
+    "revised_marks": [
+      5,
+      5,
+      5
+    ],
+    "revised_faults": [],
+    "revised_unsourced": [],
+    "summary": "Botswana’s macroeconomic outlook deteriorated markedly, culminating in a sharp 2024 economic contraction. To arrest deterioration and stabilize the outlook, the section recommends urgent action, notably advancing fiscal consolidation and economic diversification. In office since November 2024, the new Umbrella for Democratic Change government pledged higher wages and launched the Botswana Economic Transformation Program, but initiated austerity measures facing sharp fiscal pressures. Meanwhile, implementation of 2024 Article IV and FSAP recommendations remains mixed, showing progress in taxing digital services and developing bond markets, but limited wider fiscal reform.",
+    "words": 87,
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsourced": []
+  },
+  {
+    "sid": "S06",
+    "title": "Recent developments",
+    "pages": "10-14",
+    "first_draft": "Diamond headwinds caused economic activity to contract by 3 percent in 2024, with mining output declining by 24 percent and diamond trading by 34 percent. The fiscal deficit widened to an estimated 7.1 percent of GDP in FY24/25, while international reserves fell to $3.5 billion. Although the Monetary Policy Rate was held at 1.9 percent, monetary conditions tightened and liquidity pressured banks. The section reports these macro-financial developments and the authorities' response measures without making any policy recommendations.",
+    "first_marks": [
+      5,
+      3,
+      5
+    ],
+    "first_faults": [
+      "Omits significant developments discussed in the source section, such as the exchange rate policy adjustments, the launch of the BETP and sovereign wealth fund, sovereign rating downgrades, and specific fiscal spending containment measures."
+    ],
+    "first_unsourced": [],
+    "revised": "The section concludes that diamond headwinds contracted economic activity by 3 percent in 2024, widening the fiscal deficit to 7.1 percent of GDP and prompting sovereign rating downgrades by S&P and Moody's. In response, authorities launched the BETP and a sovereign wealth fund, centralized procurement to save 1.2 ppt of GDP, and adjusted exchange rate policy by increasing Pula depreciation to 2.76 percent and widening the crawl band to ±7.5 percent. The section outlines these developments and policy actions without offering any recommendations.",
+    "kept": "revision",
+    "revised_marks": [
+      5,
+      3,
+      5
+    ],
+    "revised_faults": [
+      "The summary omits key developments detailed in the source section regarding the external sector (decline in international reserves and current account deficit), monetary and banking liquidity conditions, and financial sector stability/AML frameworks."
+    ],
+    "revised_unsourced": [],
+    "summary": "The section concludes that diamond headwinds contracted economic activity by 3 percent in 2024, widening the fiscal deficit to 7.1 percent of GDP and prompting sovereign rating downgrades by S&P and Moody's. In response, authorities launched the BETP and a sovereign wealth fund, centralized procurement to save 1.2 ppt of GDP, and adjusted exchange rate policy by increasing Pula depreciation to 2.76 percent and widening the crawl band to ±7.5 percent. The section outlines these developments and policy actions without offering any recommendations.",
+    "words": 83,
+    "consistency": 5,
+    "completeness": 3,
+    "factual_alignment": 5,
+    "unsourced": []
+  },
+  {
+    "sid": "S07",
+    "title": "Outlook and risks",
+    "pages": "15-18",
+    "first_draft": "The section concludes that GDP is projected to contract by about 1 percent in 2025, inflation will reach around 5 percent y-o-y by end-2025, and the current account deficit will increase to 6 percent of GDP. Without policy action, public debt would rise to near 60 percent of GDP by 2030 as reserves deplete. Staff cautions against increasing Botswana's 15-percent participation in De Beers and recommends embarking on a comprehensive adjustment path combining ambitious fiscal consolidation and far-reaching structural reforms to foster economic diversification.",
+    "first_marks": [
+      5,
+      5,
+      5
+    ],
+    "first_faults": [],
+    "first_unsourced": [],
+    "revised": null,
+    "kept": "first",
+    "summary": "The section concludes that GDP is projected to contract by about 1 percent in 2025, inflation will reach around 5 percent y-o-y by end-2025, and the current account deficit will increase to 6 percent of GDP. Without policy action, public debt would rise to near 60 percent of GDP by 2030 as reserves deplete. Staff cautions against increasing Botswana's 15-percent participation in De Beers and recommends embarking on a comprehensive adjustment path combining ambitious fiscal consolidation and far-reaching structural reforms to foster economic diversification.",
+    "words": 84,
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsourced": []
+  },
+  {
+    "sid": "S08",
+    "title": "A. Preserving fiscal sustainability",
+    "pages": "18-23",
+    "first_draft": "With fiscal buffers depleted and net debt projected to exceed 40 percent of GDP by end-FY25/26, Botswana must implement a gradual fiscal consolidation to safeguard macroeconomic stability. Staff recommends consolidating 4.7 ppts of GDP over three years and 6.4 ppts by 2030 to keep public debt under 50 percent of GDP. Key measures include increasing non-mineral revenue by 2 ppt of GDP, reducing the wage bill from over 13 percent to about 11 percent of GDP, and raising the statutory debt ceiling from 40 to 50 percent of GDP.",
+    "first_marks": [
+      5,
+      4,
+      5
+    ],
+    "first_faults": [],
+    "first_unsourced": [],
+    "revised": null,
+    "kept": "first",
+    "summary": "With fiscal buffers depleted and net debt projected to exceed 40 percent of GDP by end-FY25/26, Botswana must implement a gradual fiscal consolidation to safeguard macroeconomic stability. Staff recommends consolidating 4.7 ppts of GDP over three years and 6.4 ppts by 2030 to keep public debt under 50 percent of GDP. Key measures include increasing non-mineral revenue by 2 ppt of GDP, reducing the wage bill from over 13 percent to about 11 percent of GDP, and raising the statutory debt ceiling from 40 to 50 percent of GDP.",
+    "words": 89,
+    "consistency": 5,
+    "completeness": 4,
+    "factual_alignment": 5,
+    "unsourced": []
+  },
+  {
+    "sid": "S09",
+    "title": "B. Monetary and financial sector frameworks",
+    "pages": "23-25",
+    "first_draft": "The section concludes that Botswana must tighten monetary policy to stem reserve declines and support the crawling peg amid mounting financial pressures. The main recommendation is to increase the policy rate from 1.9 percent toward or above its interest rate parity level of about 7.5 percent. Additionally, with an estimated 10.5 percent exchange rate overvaluation in 2024 and a 22-percent tradables appreciation since 2013, technical adjustments to the REER framework are urged to restore competitiveness while implementing key FSAP reforms.",
+    "first_marks": [
+      5,
+      5,
+      5
+    ],
+    "first_faults": [],
+    "first_unsourced": [],
+    "revised": null,
+    "kept": "first",
+    "summary": "The section concludes that Botswana must tighten monetary policy to stem reserve declines and support the crawling peg amid mounting financial pressures. The main recommendation is to increase the policy rate from 1.9 percent toward or above its interest rate parity level of about 7.5 percent. Additionally, with an estimated 10.5 percent exchange rate overvaluation in 2024 and a 22-percent tradables appreciation since 2013, technical adjustments to the REER framework are urged to restore competitiveness while implementing key FSAP reforms.",
+    "words": 80,
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsourced": []
+  },
+  {
+    "sid": "S10",
+    "title": "C. Structural reforms",
+    "pages": "25-27",
+    "first_draft": "The section concludes that structural reforms are vital to overcome private sector impediments and drive diversified growth. Closing half of the gaps in governance, business regulation, and the external sector could raise GDP growth by 1.2 percent in the short term and 2.0 percent in the medium term, while labor market reforms could increase employment by approximately 3–4 percent. Staff recommends adopting broader reforms to improve the business climate, embedding the BETP in a comprehensive NDP, and aligning the tax structure with the green agenda through carbon taxes.",
+    "first_marks": [
+      5,
+      4,
+      5
+    ],
+    "first_faults": [],
+    "first_unsourced": [],
+    "revised": null,
+    "kept": "first",
+    "summary": "The section concludes that structural reforms are vital to overcome private sector impediments and drive diversified growth. Closing half of the gaps in governance, business regulation, and the external sector could raise GDP growth by 1.2 percent in the short term and 2.0 percent in the medium term, while labor market reforms could increase employment by approximately 3–4 percent. Staff recommends adopting broader reforms to improve the business climate, embedding the BETP in a comprehensive NDP, and aligning the tax structure with the green agenda through carbon taxes.",
+    "words": 88,
+    "consistency": 5,
+    "completeness": 4,
+    "factual_alignment": 5,
+    "unsourced": []
+  },
+  {
+    "sid": "S11",
+    "title": "Other surveillance issues",
+    "pages": "27-28",
+    "first_draft": "This section concludes that data provided to the Fund has shortcomings that somewhat hamper surveillance, with significant data gaps in government finance statistics following system failures since August 2023 affecting budget implementation and fiscal reporting for FY23/24 and FY24/25. Botswana publishes thirteen of the fifteen recommended data categories under e-GDDS. As its main recommendation, the authorities should address remaining coverage, timeliness, and frequency requirements across several categories to subscribe to the IMF's Special Data Dissemination Standards.",
+    "first_marks": [
+      5,
+      3,
+      5
+    ],
+    "first_faults": [
+      "The summary omits key details from paragraphs 47 and 48, including Fund capacity development (CD) priorities and the authorities' views on addressing IFMIS technical issues."
+    ],
+    "first_unsourced": [],
+    "revised": "This section concludes that data provided to the Fund has shortcomings somewhat hampering surveillance, with system failures since August 2023 affecting FY23/24 and FY24/25 fiscal reporting. While Botswana publishes thirteen of the fifteen recommended e-GDDS data categories, authorities should address remaining requirements to subscribe to the SDDS. Fund CD priorities support enhancing PFM, monetary policy effectiveness, financial supervision, risk-based AML/CFT frameworks, and data quality. The authorities recognized current shortcomings and highlighted that fully addressing technical problems faced by IFMIS was a priority.",
+    "kept": "revision",
+    "revised_marks": [
+      5,
+      5,
+      5
+    ],
+    "revised_faults": [],
+    "revised_unsourced": [],
+    "summary": "This section concludes that data provided to the Fund has shortcomings somewhat hampering surveillance, with system failures since August 2023 affecting FY23/24 and FY24/25 fiscal reporting. While Botswana publishes thirteen of the fifteen recommended e-GDDS data categories, authorities should address remaining requirements to subscribe to the SDDS. Fund CD priorities support enhancing PFM, monetary policy effectiveness, financial supervision, risk-based AML/CFT frameworks, and data quality. The authorities recognized current shortcomings and highlighted that fully addressing technical problems faced by IFMIS was a priority.",
+    "words": 82,
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsourced": []
+  },
+  {
+    "sid": "S12",
+    "title": "Staff appraisal",
+    "pages": "28-29",
+    "first_draft": "The appraisal concludes that a severe contraction in the diamond sector has clouded Botswana’s macroeconomic outlook, while inflation is expected to rise towards the end of 2025. Because fiscal and external buffers have eroded, staff recommends that the new five-year NDP adopt a three-pronged medium-term strategy comprising decisive fiscal consolidation, monetary policy tightening to support the peg, and structural reforms to foster economic diversification. Finally, staff recommends holding the next Article IV consultation on the standard 12-month cycle.",
+    "first_marks": [
+      5,
+      3,
+      5
+    ],
+    "first_faults": [
+      "The summary omits detailed recommendations on near-term fiscal consolidation measures, financial sector and FSAP implementation, specific structural bottlenecks, and data quality/IFMIS improvements."
+    ],
+    "first_unsourced": [],
+    "revised": "Staff concludes that Botswana’s outlook is clouded by a diamond sector contraction, with inflation rising towards the end of 2025. Staff recommends adopting a three-pronged NDP strategy: near-term fiscal consolidation through tax base broadening, wage bill cuts, and SOE reforms; monetary tightening; and economic diversification. Authorities must also implement remaining FSAP recommendations to improve liquidity, tackle structural bottlenecks including SME finance and red tape, and fix IFMIS technical problems to enhance data quality. The next Article IV consultation is recommended on the standard 12-month cycle.",
+    "kept": "revision",
+    "revised_marks": [
+      5,
+      5,
+      5
+    ],
+    "revised_faults": [],
+    "revised_unsourced": [],
+    "summary": "Staff concludes that Botswana’s outlook is clouded by a diamond sector contraction, with inflation rising towards the end of 2025. Staff recommends adopting a three-pronged NDP strategy: near-term fiscal consolidation through tax base broadening, wage bill cuts, and SOE reforms; monetary tightening; and economic diversification. Authorities must also implement remaining FSAP recommendations to improve liquidity, tackle structural bottlenecks including SME finance and red tape, and fix IFMIS technical problems to enhance data quality. The next Article IV consultation is recommended on the standard 12-month cycle.",
+    "words": 85,
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsourced": []
+  },
+  {
+    "sid": "S13",
+    "title": "Figures and statistical tables",
+    "pages": "30-39",
+    "first_draft": "This section concludes that Botswana faces acute macro-financial pressures from declining diamond output, widening deficits, and depleting buffers, while making no policy recommendations. The current account deficit widened to -814 million U.S. dollars in 2024 and is projected at -1,134 million U.S. dollars in 2025. End-of-Year Reserves fall from 3,549 million U.S. dollars to 3,064 million U.S. dollars. Concurrently, the central government overall balance deficit expands to -23.9 billion pula in FY25/26, even as the banking sector maintains regulatory capital to risk-weighted assets of 19.1 percent.",
+    "first_marks": [
+      5,
+      5,
+      5
+    ],
+    "first_faults": [],
+    "first_unsourced": [],
+    "revised": null,
+    "kept": "first",
+    "summary": "This section concludes that Botswana faces acute macro-financial pressures from declining diamond output, widening deficits, and depleting buffers, while making no policy recommendations. The current account deficit widened to -814 million U.S. dollars in 2024 and is projected at -1,134 million U.S. dollars in 2025. End-of-Year Reserves fall from 3,549 million U.S. dollars to 3,064 million U.S. dollars. Concurrently, the central government overall balance deficit expands to -23.9 billion pula in FY25/26, even as the banking sector maintains regulatory capital to risk-weighted assets of 19.1 percent.",
+    "words": 86,
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsourced": []
+  },
+  {
+    "sid": "S14",
+    "title": "Annex I. Debt sustainability analysis",
+    "pages": "40-46",
+    "first_draft": "Botswana's overall risk of sovereign stress is assessed as moderate, although debt does not stabilize under the baseline scenario, climbing from 33.1 percent of GDP in 2024 to 75.8 percent in 2034. The debt fanchart indicates high risk with a 99.9 percent probability of debt non-stabilization, while gross financing needs point to moderate risk with an index of 12.6. The report recommends implementing an ambitious reform agenda aimed at economic diversification to place public debt on a sustainable downward trajectory.",
+    "first_marks": [
+      5,
+      5,
+      5
+    ],
+    "first_faults": [],
+    "first_unsourced": [],
+    "revised": null,
+    "kept": "first",
+    "summary": "Botswana's overall risk of sovereign stress is assessed as moderate, although debt does not stabilize under the baseline scenario, climbing from 33.1 percent of GDP in 2024 to 75.8 percent in 2034. The debt fanchart indicates high risk with a 99.9 percent probability of debt non-stabilization, while gross financing needs point to moderate risk with an index of 12.6. The report recommends implementing an ambitious reform agenda aimed at economic diversification to place public debt on a sustainable downward trajectory.",
+    "words": 80,
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsourced": []
+  },
+  {
+    "sid": "S15",
+    "title": "Annex II. External stability assessment",
+    "pages": "47-50",
+    "first_draft": "Botswana’s external position in 2024 is assessed as weaker than the level implied by fundamentals and desirable policies. The current account shifted from a surplus of 1.5 percent of GDP in 2023 to a deficit of 4.2 percent of GDP in 2024, with model estimates indicating a current account gap of -3.0 percent of GDP and an overvaluation requiring a 10.5 percent real effective exchange rate depreciation. To safeguard external stability, stem reserve declines, and support the crawling peg, the assessment recommends fiscal consolidation, monetary policy tightening, and structural reforms.",
+    "first_marks": [
+      5,
+      5,
+      5
+    ],
+    "first_faults": [],
+    "first_unsourced": [],
+    "revised": null,
+    "kept": "first",
+    "summary": "Botswana’s external position in 2024 is assessed as weaker than the level implied by fundamentals and desirable policies. The current account shifted from a surplus of 1.5 percent of GDP in 2023 to a deficit of 4.2 percent of GDP in 2024, with model estimates indicating a current account gap of -3.0 percent of GDP and an overvaluation requiring a 10.5 percent real effective exchange rate depreciation. To safeguard external stability, stem reserve declines, and support the crawling peg, the assessment recommends fiscal consolidation, monetary policy tightening, and structural reforms.",
+    "words": 90,
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsourced": []
+  },
+  {
+    "sid": "S16",
+    "title": "Annex III. Risk assessment matrix",
+    "pages": "51-52",
+    "first_draft": "Annex III assesses risks that could materially alter the baseline, categorizing subjective likelihoods as low (below 10 percent), medium (10-30 percent), and high (30-50 percent), with conjunctural shocks spanning 12-18 months. It concludes that high-impact threats stem from falling global rough diamond prices, delayed fiscal consolidation, and impaired monetary policy transmission amid liquidity stress. With fiscal buffers depleted, the matrix primarily recommends implementing decisive fiscal consolidation, accelerating economic diversification reforms, and tightening monetary policy to address the contraction in foreign exchange reserves.",
+    "first_marks": [
+      5,
+      4,
+      5
+    ],
+    "first_faults": [],
+    "first_unsourced": [],
+    "revised": null,
+    "kept": "first",
+    "summary": "Annex III assesses risks that could materially alter the baseline, categorizing subjective likelihoods as low (below 10 percent), medium (10-30 percent), and high (30-50 percent), with conjunctural shocks spanning 12-18 months. It concludes that high-impact threats stem from falling global rough diamond prices, delayed fiscal consolidation, and impaired monetary policy transmission amid liquidity stress. With fiscal buffers depleted, the matrix primarily recommends implementing decisive fiscal consolidation, accelerating economic diversification reforms, and tightening monetary policy to address the contraction in foreign exchange reserves.",
+    "words": 82,
+    "consistency": 5,
+    "completeness": 4,
+    "factual_alignment": 5,
+    "unsourced": []
+  },
+  {
+    "sid": "S17",
+    "title": "Annex IV. Resilient scenario",
+    "pages": "53-55",
+    "first_draft": "Annex IV concludes that pursuing a comprehensive reform agenda combining targeted fiscal consolidation, monetary tightening, and structural reforms will restore macroeconomic stability and build long-term resilience. While a sharper consolidation to keep debt below the legal 40 percent threshold is not recommendable, targeted measures limit public debt to 46 percent of GDP by end-2030 compared to 61 percent under the baseline. Key actions include reducing the wage bill from 13.4 percent of GDP to 11 percent of GDP, raising import coverage to more than 5 months by 2030.",
+    "first_marks": [
+      5,
+      5,
+      5
+    ],
+    "first_faults": [],
+    "first_unsourced": [],
+    "revised": null,
+    "kept": "first",
+    "summary": "Annex IV concludes that pursuing a comprehensive reform agenda combining targeted fiscal consolidation, monetary tightening, and structural reforms will restore macroeconomic stability and build long-term resilience. While a sharper consolidation to keep debt below the legal 40 percent threshold is not recommendable, targeted measures limit public debt to 46 percent of GDP by end-2030 compared to 61 percent under the baseline. Key actions include reducing the wage bill from 13.4 percent of GDP to 11 percent of GDP, raising import coverage to more than 5 months by 2030.",
+    "words": 88,
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsourced": []
+  },
+  {
+    "sid": "S18",
+    "title": "Annex V. FSAP follow-up",
+    "pages": "56-60",
+    "first_draft": "Annex V concludes that Botswana is actively advancing reforms following the 2023 FSAP recommendations across systemic risk, oversight, and safety nets. Key actions include releasing Liquidity Coverage Ratio guidelines on 1 May 2025 for implementation on 1 December 2025, while the national Financial Sector Development Strategy is slated for finalization by 2029. Crucial recommendations urge authorities to introduce Basel III liquidity standards, establish an emergency liquidity assistance framework by December 2025, and implement consolidated supervision under the Banking Act 2023, which commenced on 15 August 2025.",
+    "first_marks": [
+      5,
+      3,
+      5
+    ],
+    "first_faults": [
+      "The summary omits major areas of the Annex V table, including AML/CFT risk-based oversight, the Deposit Insurance Scheme implementation, crisis management/resolution planning, and DFI oversight."
+    ],
+    "first_unsourced": [],
+    "revised": "Annex V concludes that Botswana is steadily advancing 2023 FSAP recommendations across systemic risk, financial oversight, safety nets, and development finance institutions. The authorities released Liquidity Coverage Ratio guidelines on 1 May 2025 for implementation on 1 December 2025, while the Banking Act 2023 commenced on 15 August 2025 to enable consolidated supervision. Key recommendations urge operationalizing an AML/CFT risk-based toolkit, implementing the Deposit Insurance Scheme following regulations operating from 21 July 2023, establishing crisis management and resolution frameworks by the end of 2025, and strengthening oversight of development finance institutions.",
+    "kept": "revision",
+    "revised_marks": [
+      5,
+      5,
+      5
+    ],
+    "revised_faults": [],
+    "revised_unsourced": [],
+    "summary": "Annex V concludes that Botswana is steadily advancing 2023 FSAP recommendations across systemic risk, financial oversight, safety nets, and development finance institutions. The authorities released Liquidity Coverage Ratio guidelines on 1 May 2025 for implementation on 1 December 2025, while the Banking Act 2023 commenced on 15 August 2025 to enable consolidated supervision. Key recommendations urge operationalizing an AML/CFT risk-based toolkit, implementing the Deposit Insurance Scheme following regulations operating from 21 July 2023, establishing crisis management and resolution frameworks by the end of 2025, and strengthening oversight of development finance institutions.",
+    "words": 91,
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsourced": []
+  },
+  {
+    "sid": "S19",
+    "title": "Annex VI. Diamond sector",
+    "pages": "61-63",
+    "first_draft": "Annex VI concludes that demand for natural diamonds is expected to gradually recover over the medium term amidst heightened uncertainty, as differentiation efforts bear fruit against lab-grown diamonds, which sell for up to 90 percent less and captured over a fifth of global sales in 2024. While risks stem from midstream inventory and Anglo American divesting its 85 percent stake in De Beers, a February 2025 agreement extends mining licenses by 25 years to 2054. The section offers no policy recommendations.",
+    "first_marks": [
+      5,
+      5,
+      5
+    ],
+    "first_faults": [],
+    "first_unsourced": [],
+    "revised": null,
+    "kept": "first",
+    "summary": "Annex VI concludes that demand for natural diamonds is expected to gradually recover over the medium term amidst heightened uncertainty, as differentiation efforts bear fruit against lab-grown diamonds, which sell for up to 90 percent less and captured over a fifth of global sales in 2024. While risks stem from midstream inventory and Anglo American divesting its 85 percent stake in De Beers, a February 2025 agreement extends mining licenses by 25 years to 2054. The section offers no policy recommendations.",
+    "words": 81,
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsourced": []
+  },
+  {
+    "sid": "S20",
+    "title": "Annex VII. Capacity development",
+    "pages": "64-66",
+    "first_draft": "This annex concludes that Fund capacity development over the past five years has integrated well with surveillance priorities, noting strong cooperation and milestones like concluding a two-year expert program in November 2024. However, slower implementation of fiscal reporting measures somewhat hampers surveillance. The main recommendation is that capacity development should continue supporting the authorities’ goals in 2025–26 to improve fiscal reporting, increase domestic revenue mobilization, enhance monetary policy effectiveness, and strengthen statistics, while targeting national account rebasing for FY28/29 with a workplan by end-2025.",
+    "first_marks": [
+      5,
+      5,
+      5
+    ],
+    "first_faults": [],
+    "first_unsourced": [],
+    "revised": null,
+    "kept": "first",
+    "summary": "This annex concludes that Fund capacity development over the past five years has integrated well with surveillance priorities, noting strong cooperation and milestones like concluding a two-year expert program in November 2024. However, slower implementation of fiscal reporting measures somewhat hampers surveillance. The main recommendation is that capacity development should continue supporting the authorities’ goals in 2025–26 to improve fiscal reporting, increase domestic revenue mobilization, enhance monetary policy effectiveness, and strengthen statistics, while targeting national account rebasing for FY28/29 with a workplan by end-2025.",
+    "words": 84,
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsourced": []
+  },
+  {
+    "sid": "S21",
+    "title": "Annex VIII. Responses to past advice",
+    "pages": "67-68",
+    "first_draft": "The authorities demonstrated mixed progress on past recommendations, advancing digital taxation while key fiscal reforms remain unaddressed. In response to low inflation, the Bank of Botswana reduced the monetary policy rate cumulatively by 50 basis points to 1.9 percent in August 2024. In the financial sector, Basel III Liquidity Coverage Ratio and Capital Buffer guidelines become operational by end-2025. Outstanding advice urges authorities to strengthen domestic revenue mobilization, revise the fiscal anchor, and implement plans for economic diversification by restructuring state-owned enterprises.",
+    "first_marks": [
+      5,
+      4,
+      5
+    ],
+    "first_faults": [],
+    "first_unsourced": [],
+    "revised": null,
+    "kept": "first",
+    "summary": "The authorities demonstrated mixed progress on past recommendations, advancing digital taxation while key fiscal reforms remain unaddressed. In response to low inflation, the Bank of Botswana reduced the monetary policy rate cumulatively by 50 basis points to 1.9 percent in August 2024. In the financial sector, Basel III Liquidity Coverage Ratio and Capital Buffer guidelines become operational by end-2025. Outstanding advice urges authorities to strengthen domestic revenue mobilization, revise the fiscal anchor, and implement plans for economic diversification by restructuring state-owned enterprises.",
+    "words": 82,
+    "consistency": 5,
+    "completeness": 4,
+    "factual_alignment": 5,
+    "unsourced": []
+  },
+  {
+    "sid": "S22",
+    "title": "Annex IX. Data issues",
+    "pages": "69-70",
+    "first_draft": "Annex IX concludes that data provision has some shortcomings that somewhat hamper surveillance, lowering the overall rating to “C”. This reflects severe fiscal reporting deficiencies, where technical problems with the government accounting and budget information system since August 2023 prevented timely reporting of FY23/24 and FY24/25 data, while compiled annual GFS data for 2010-2022 remain undisseminated. To restore monitoring and reporting on budget execution, the authorities must implement the interim solutions proposed by STA and FAD in the spring of 2025.",
+    "first_marks": [
+      5,
+      4,
+      5
+    ],
+    "first_faults": [],
+    "first_unsourced": [],
+    "revised": null,
+    "kept": "first",
+    "summary": "Annex IX concludes that data provision has some shortcomings that somewhat hamper surveillance, lowering the overall rating to “C”. This reflects severe fiscal reporting deficiencies, where technical problems with the government accounting and budget information system since August 2023 prevented timely reporting of FY23/24 and FY24/25 data, while compiled annual GFS data for 2010-2022 remain undisseminated. To restore monitoring and reporting on budget execution, the authorities must implement the interim solutions proposed by STA and FAD in the spring of 2025.",
+    "words": 81,
+    "consistency": 5,
+    "completeness": 4,
+    "factual_alignment": 5,
+    "unsourced": []
+  },
+  {
+    "sid": "S23",
+    "title": "Annex X. Fiscal multipliers",
+    "pages": "71-79",
+    "first_draft": "The annex concludes that fiscal consolidations in Botswana have substantial negative short-term output effects, with the cumulative primary balance multiplier estimated at -1.50 over four quarters and -1.38 over eight quarters, reducing real GDP by approximately 1.4 to 1.5 percent. To limit these output losses while ensuring fiscal sustainability, the section recommends a gradual pace of adjustment along with a growth-friendly consolidation strategy that safeguards well-targeted capital spending, enhances spending efficiency, and mobilizes revenue from less distortionary sources.",
+    "first_marks": [
+      5,
+      4,
+      5
+    ],
+    "first_faults": [],
+    "first_unsourced": [],
+    "revised": null,
+    "kept": "first",
+    "summary": "The annex concludes that fiscal consolidations in Botswana have substantial negative short-term output effects, with the cumulative primary balance multiplier estimated at -1.50 over four quarters and -1.38 over eight quarters, reducing real GDP by approximately 1.4 to 1.5 percent. To limit these output losses while ensuring fiscal sustainability, the section recommends a gradual pace of adjustment along with a growth-friendly consolidation strategy that safeguards well-targeted capital spending, enhances spending efficiency, and mobilizes revenue from less distortionary sources.",
+    "words": 78,
+    "consistency": 5,
+    "completeness": 4,
+    "factual_alignment": 5,
+    "unsourced": []
+  },
+  {
+    "sid": "S24",
+    "title": "Informational annex",
+    "pages": "79-82",
+    "first_draft": "This informational annex provides institutional background on Botswana's relations with the Fund and other financial institutions, offering no formal conclusions or policy recommendations. Key figures report a quota of 197.20 million SDR, Fund holdings of currency of 145.74 million SDR, and a reserve position in Fund of 51.47 million SDR. Net cumulative allocation stands at 246.44 million SDR, holdings at 252.57 million SDR, and Outstanding Purchases and Loans are None. As of August 31, 2025, exchange rates were US$1= P13.38 and R1=P0.75.",
+    "first_marks": [
+      5,
+      5,
+      5
+    ],
+    "first_faults": [],
+    "first_unsourced": [],
+    "revised": null,
+    "kept": "first",
+    "summary": "This informational annex provides institutional background on Botswana's relations with the Fund and other financial institutions, offering no formal conclusions or policy recommendations. Key figures report a quota of 197.20 million SDR, Fund holdings of currency of 145.74 million SDR, and a reserve position in Fund of 51.47 million SDR. Net cumulative allocation stands at 246.44 million SDR, holdings at 252.57 million SDR, and Outstanding Purchases and Loans are None. As of August 31, 2025, exchange rates were US$1= P13.38 and R1=P0.75.",
+    "words": 82,
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsourced": []
+  },
+  {
+    "sid": "S25",
+    "title": "Executive Director's statement",
+    "pages": "82-87",
+    "first_draft": "The statement concludes that Botswana faces a critical juncture from diamond market weakness and shocks, yet authorities remain committed to decisive action to safeguard macroeconomic stability and achieve high-income status by 2036. Following a real GDP contraction of 3 percent in 2024 and an overall fiscal deficit of 7.1 percent of GDP in FY24/25, the authorities recommend that any adjustment to temporarily raise the 40 percent debt ceiling to 50 percent of GDP must be time-bound, targeted, and accompanied by concrete measures to reduce spending.",
+    "first_marks": [
+      4,
+      2,
+      4
+    ],
+    "first_faults": [
+      "The paragraph states that measures must be taken to 'reduce spending', whereas paragraph 12 of the source text specifies concrete measures to 'reduce the deficit'.",
+      "The summary omits major components of the Executive Director's statement, including monetary policy actions (MoPR rate hike), exchange rate adjustments, structural transformation plans (BETP and NDP 12), and tax/revenue mobilization efforts."
+    ],
+    "first_unsourced": [],
+    "revised": "The statement concludes that authorities remain committed to macroeconomic stability and reaching high-income status by 2036. Following a 3 percent GDP contraction in 2024 and an FY24/25 fiscal deficit of 7.1 percent of GDP, authorities are pursuing revenue mobilization, structural transformation through the BETP and NDP 12, exchange rate adjustments, and a 160 basis points MoPR hike to 3.5 percent. Crucially, they recommend that temporarily raising the 40 percent debt ceiling to 50 percent of GDP be time-bound, targeted, and accompanied by concrete measures to reduce the deficit.",
+    "kept": "revision",
+    "revised_marks": [
+      5,
+      5,
+      5
+    ],
+    "revised_faults": [],
+    "revised_unsourced": [],
+    "summary": "The statement concludes that authorities remain committed to macroeconomic stability and reaching high-income status by 2036. Following a 3 percent GDP contraction in 2024 and an FY24/25 fiscal deficit of 7.1 percent of GDP, authorities are pursuing revenue mobilization, structural transformation through the BETP and NDP 12, exchange rate adjustments, and a 160 basis points MoPR hike to 3.5 percent. Crucially, they recommend that temporarily raising the 40 percent debt ceiling to 50 percent of GDP be time-bound, targeted, and accompanied by concrete measures to reduce the deficit.",
+    "words": 88,
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsourced": []
+  }
+]

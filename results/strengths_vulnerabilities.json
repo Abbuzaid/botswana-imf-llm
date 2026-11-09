@@ -1,0 +1,149 @@
+{
+  "kept": [
+    {
+      "kind": "strength",
+      "label": "Low and Contained Inflation",
+      "explanation": "Inflation has remained low and within the central bank's objective range.",
+      "pdf_page": 6,
+      "quote": "Inflation is low and expected to stay within the objective range.",
+      "quote_on_page": true,
+      "supported": true,
+      "correct_class": true,
+      "judge_reason": "The quote directly confirms low inflation expected to remain within the objective range, which is correctly classified as an economic strength.",
+      "kept": true
+    },
+    {
+      "kind": "strength",
+      "label": "Resilient Non-Bank Financial Institution System",
+      "explanation": "The non-bank financial institution system continues to grow robustly and demonstrate resilience, underpinned by retirement funds.",
+      "pdf_page": 13,
+      "quote": "The non-bank financial institution (NBFI) system continues to be strong and resilient, with total financial assets growing by 12 percent in 2024, to about 71 percent of GDP.",
+      "quote_on_page": true,
+      "supported": true,
+      "correct_class": true,
+      "judge_reason": "The quote confirms that the NBFI system is strong and resilient with robust asset growth, which is correctly classified as a strength.",
+      "kept": true
+    },
+    {
+      "kind": "strength",
+      "label": "Well-Capitalized Banking System",
+      "explanation": "Botswana's banking sector maintains high capital adequacy ratios well above regulatory minimums and low levels of non-performing loans.",
+      "pdf_page": 13,
+      "quote": "As of July 2025, the banking sector’s capital adequacy ratio stood at 20 percent—well above the 12.5-percent regulatory threshold—while non-performing loans declined slightly, to 3.3 percent.",
+      "quote_on_page": true,
+      "supported": true,
+      "correct_class": true,
+      "judge_reason": "The quote shows a 20 percent capital adequacy ratio against a 12.5 percent threshold and low NPLs, supporting its classification as a strength.",
+      "kept": true
+    },
+    {
+      "kind": "strength",
+      "label": "Botswana Economic Transformation Program",
+      "explanation": "The authorities launched the transformation program to catalyze private investment and diversify the economy.",
+      "pdf_page": 11,
+      "quote": "The BETP aims to foster private sector-led investment that would allow Botswana to reach high-income status by 2036.",
+      "quote_on_page": true,
+      "supported": true,
+      "correct_class": true,
+      "judge_reason": "The quote confirms the BETP aims to foster private investment for high-income transformation, which is correctly classified as a strength.",
+      "kept": true
+    },
+    {
+      "kind": "strength",
+      "label": "Extended Partnership Agreement With De Beers",
+      "explanation": "A long-term agreement has secured mining rights and rough diamond sales arrangements for the coming decades.",
+      "pdf_page": 61,
+      "quote": "The new agreement signed in February 2025 prolongs the close economic partnership between the government and De Beers.",
+      "quote_on_page": true,
+      "supported": true,
+      "correct_class": true,
+      "judge_reason": "The quote confirms the prolonged economic partnership agreement between the government and De Beers, which is correctly classified as a strength.",
+      "kept": true
+    },
+    {
+      "kind": "strength",
+      "label": "Growth Potential in Non-Diamond Sectors",
+      "explanation": "Sectors such as copper mining, agriculture, manufacturing, tourism, and financial services offer viable avenues for economic diversification.",
+      "pdf_page": 17,
+      "quote": "They also identified agriculture, manufacturing, tourism and financial services as key drivers of growth, while also emphasizing the potential of the non-diamond mining sector, especially copper.",
+      "quote_on_page": true,
+      "supported": true,
+      "correct_class": true,
+      "judge_reason": "The quote explicitly names agriculture, manufacturing, tourism, financial services, and copper as key growth drivers, correctly classified as a strength.",
+      "kept": true
+    },
+    {
+      "kind": "vulnerability",
+      "label": "Persistent Downturn in Natural Diamond Demand",
+      "explanation": "Depressed global demand and competition from synthetic alternatives have caused a sharp contraction in diamond production and trading.",
+      "pdf_page": 10,
+      "quote": "Demand for natural diamonds declined abruptly in 2023–24, reflecting increased competition from artificial diamonds and alternative luxury spending, and lower demand from China",
+      "quote_on_page": true,
+      "supported": true,
+      "correct_class": true,
+      "judge_reason": "The quote verifies the abrupt decline in demand for natural diamonds due to artificial competition and lower demand, correctly classified as a vulnerability.",
+      "kept": true
+    },
+    {
+      "kind": "vulnerability",
+      "label": "Depleted Fiscal and External Buffers",
+      "explanation": "Fiscal reserves and foreign exchange buffers have eroded significantly, leaving the economy vulnerable to sustained shocks.",
+      "pdf_page": 9,
+      "quote": "With external reserves declining rapidly and fiscal buffers all but depleted, action is needed urgently to arrest this deterioration and stabilize the macroeconomic outlook.",
+      "quote_on_page": true,
+      "supported": true,
+      "correct_class": true,
+      "judge_reason": "The quote confirms rapidly declining external reserves and all but depleted fiscal buffers, correctly classified as a vulnerability.",
+      "kept": true
+    },
+    {
+      "kind": "vulnerability",
+      "label": "Elevated Overall and Youth Unemployment",
+      "explanation": "High unemployment remains an entrenched macroeconomic challenge, particularly affecting the younger population.",
+      "pdf_page": 10,
+      "quote": "The latest data (2024Q1) reported overall and youth unemployment of 27.6 and 38.2 percent, respectively (Text Figure 5).",
+      "quote_on_page": true,
+      "supported": true,
+      "correct_class": true,
+      "judge_reason": "The quote provides data showing high overall (27.6%) and youth (38.2%) unemployment, correctly classified as a vulnerability.",
+      "kept": true
+    },
+    {
+      "kind": "vulnerability",
+      "label": "Tightening Banking Sector Liquidity",
+      "explanation": "Pressures from mineral sector contraction, capital outflows, and sovereign financing have significantly constrained liquidity in the banking system.",
+      "pdf_page": 6,
+      "quote": "The financial sector remains sound, though banking sector liquidity has tightened due to the contraction in the diamond sector; increased government financing and higher capital outflows.",
+      "quote_on_page": true,
+      "supported": true,
+      "correct_class": true,
+      "judge_reason": "The quote explicitly states banking sector liquidity has tightened due to diamond sector contraction, government financing, and capital outflows, correctly classified as a vulnerability.",
+      "kept": true
+    },
+    {
+      "kind": "vulnerability",
+      "label": "Disproportionately High Public Wage Bill",
+      "explanation": "The public wage bill consumes a large share of revenues and GDP, crowding out growth-enhancing public capital spending.",
+      "pdf_page": 20,
+      "quote": "It absorbs more than 13 percent of GDP and about 58 percent of total tax revenues—well above levels observed in most peer countries (Text Figure 17).",
+      "quote_on_page": true,
+      "supported": true,
+      "correct_class": true,
+      "judge_reason": "The quote details the large share of GDP (over 13%) and tax revenues (about 58%) absorbed by the public wage bill, correctly classified as a vulnerability.",
+      "kept": true
+    },
+    {
+      "kind": "vulnerability",
+      "label": "Elevated Unsecured Household Debt",
+      "explanation": "Substantial growth in household borrowing driven by short-term unsecured credit increases vulnerability to economic downturns.",
+      "pdf_page": 13,
+      "quote": "However, household debt has doubled to around 22 percent of GDP between 2007 and June 2025, driven by unsecured, short-term personal loans.",
+      "quote_on_page": true,
+      "supported": true,
+      "correct_class": true,
+      "judge_reason": "The quote confirms that household debt has doubled, driven by unsecured short-term personal loans, correctly classified as a vulnerability.",
+      "kept": true
+    }
+  ],
+  "dropped": []
+}

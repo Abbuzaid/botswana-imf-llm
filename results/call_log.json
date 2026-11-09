@@ -1,0 +1,1330 @@
+{
+  "writer": "gemini-3.7-flash",
+  "judge": "gemini-3.5-flash",
+  "calls": 132,
+  "live": 0,
+  "from_ledger": 132,
+  "repairs": 0,
+  "rows": [
+    {
+      "step": "summary:S01",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 17.11,
+      "tokens_in": 3384,
+      "tokens_out": 132
+    },
+    {
+      "step": "mark:S01",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 4.96,
+      "tokens_in": 3533,
+      "tokens_out": 37
+    },
+    {
+      "step": "summary:S02",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 9.82,
+      "tokens_in": 526,
+      "tokens_out": 94
+    },
+    {
+      "step": "mark:S02",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 3.97,
+      "tokens_in": 638,
+      "tokens_out": 27
+    },
+    {
+      "step": "summary:S05",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 14.31,
+      "tokens_in": 680,
+      "tokens_out": 118
+    },
+    {
+      "step": "mark:S05",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 5.3,
+      "tokens_in": 810,
+      "tokens_out": 93
+    },
+    {
+      "step": "summary:S05:rev",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 15.36,
+      "tokens_in": 875,
+      "tokens_out": 124
+    },
+    {
+      "step": "mark:S05:rev",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 5.98,
+      "tokens_in": 816,
+      "tokens_out": 37
+    },
+    {
+      "step": "summary:S06",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 17.2,
+      "tokens_in": 2880,
+      "tokens_out": 116
+    },
+    {
+      "step": "mark:S06",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 8.26,
+      "tokens_in": 3011,
+      "tokens_out": 84
+    },
+    {
+      "step": "summary:S06:rev",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 14.02,
+      "tokens_in": 3052,
+      "tokens_out": 120
+    },
+    {
+      "step": "mark:S06:rev",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 7.41,
+      "tokens_in": 3015,
+      "tokens_out": 83
+    },
+    {
+      "step": "summary:S07",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 15.11,
+      "tokens_in": 1956,
+      "tokens_out": 125
+    },
+    {
+      "step": "mark:S07",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 3.83,
+      "tokens_in": 2096,
+      "tokens_out": 37
+    },
+    {
+      "step": "summary:S08",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 18.78,
+      "tokens_in": 2790,
+      "tokens_out": 133
+    },
+    {
+      "step": "mark:S08",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 5.37,
+      "tokens_in": 2939,
+      "tokens_out": 37
+    },
+    {
+      "step": "summary:S09",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 11.01,
+      "tokens_in": 1412,
+      "tokens_out": 115
+    },
+    {
+      "step": "mark:S09",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 5.97,
+      "tokens_in": 1543,
+      "tokens_out": 37
+    },
+    {
+      "step": "summary:S10",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 20.53,
+      "tokens_in": 959,
+      "tokens_out": 111
+    },
+    {
+      "step": "mark:S10",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 4.02,
+      "tokens_in": 1085,
+      "tokens_out": 37
+    },
+    {
+      "step": "summary:S11",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 14.4,
+      "tokens_in": 483,
+      "tokens_out": 108
+    },
+    {
+      "step": "mark:S11",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 5.24,
+      "tokens_in": 607,
+      "tokens_out": 79
+    },
+    {
+      "step": "summary:S11:rev",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 11.54,
+      "tokens_in": 643,
+      "tokens_out": 126
+    },
+    {
+      "step": "mark:S11:rev",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 4.61,
+      "tokens_in": 620,
+      "tokens_out": 37
+    },
+    {
+      "step": "summary:S12",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 15.93,
+      "tokens_in": 933,
+      "tokens_out": 107
+    },
+    {
+      "step": "mark:S12",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 6.63,
+      "tokens_in": 1055,
+      "tokens_out": 60
+    },
+    {
+      "step": "summary:S12:rev",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 19.9,
+      "tokens_in": 1088,
+      "tokens_out": 123
+    },
+    {
+      "step": "mark:S12:rev",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 4.05,
+      "tokens_in": 1067,
+      "tokens_out": 37
+    },
+    {
+      "step": "summary:S13",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 16.43,
+      "tokens_in": 8910,
+      "tokens_out": 160
+    },
+    {
+      "step": "mark:S13",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 4.89,
+      "tokens_in": 9086,
+      "tokens_out": 37
+    },
+    {
+      "step": "summary:S14",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 21.56,
+      "tokens_in": 5701,
+      "tokens_out": 127
+    },
+    {
+      "step": "mark:S14",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 4.26,
+      "tokens_in": 5839,
+      "tokens_out": 37
+    },
+    {
+      "step": "summary:S15",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 13.69,
+      "tokens_in": 3392,
+      "tokens_out": 133
+    },
+    {
+      "step": "mark:S15",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 4.74,
+      "tokens_in": 3540,
+      "tokens_out": 37
+    },
+    {
+      "step": "summary:S16",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 11.65,
+      "tokens_in": 1233,
+      "tokens_out": 122
+    },
+    {
+      "step": "mark:S16",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 8.3,
+      "tokens_in": 1370,
+      "tokens_out": 37
+    },
+    {
+      "step": "summary:S17",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 12.43,
+      "tokens_in": 3381,
+      "tokens_out": 125
+    },
+    {
+      "step": "mark:S17",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 4.66,
+      "tokens_in": 3521,
+      "tokens_out": 37
+    },
+    {
+      "step": "summary:S18",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 14.38,
+      "tokens_in": 3563,
+      "tokens_out": 135
+    },
+    {
+      "step": "mark:S18",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 5.22,
+      "tokens_in": 3714,
+      "tokens_out": 58
+    },
+    {
+      "step": "summary:S18:rev",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 15.89,
+      "tokens_in": 3752,
+      "tokens_out": 151
+    },
+    {
+      "step": "mark:S18:rev",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 4.36,
+      "tokens_in": 3725,
+      "tokens_out": 20
+    },
+    {
+      "step": "summary:S19",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 17.02,
+      "tokens_in": 1982,
+      "tokens_out": 114
+    },
+    {
+      "step": "mark:S19",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 4.2,
+      "tokens_in": 2111,
+      "tokens_out": 37
+    },
+    {
+      "step": "summary:S20",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 14.88,
+      "tokens_in": 1997,
+      "tokens_out": 124
+    },
+    {
+      "step": "mark:S20",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 3.93,
+      "tokens_in": 2136,
+      "tokens_out": 37
+    },
+    {
+      "step": "summary:S21",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 15.37,
+      "tokens_in": 941,
+      "tokens_out": 114
+    },
+    {
+      "step": "mark:S21",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 5.6,
+      "tokens_in": 1071,
+      "tokens_out": 37
+    },
+    {
+      "step": "summary:S22",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 8.44,
+      "tokens_in": 2070,
+      "tokens_out": 129
+    },
+    {
+      "step": "mark:S22",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 5.26,
+      "tokens_in": 2211,
+      "tokens_out": 37
+    },
+    {
+      "step": "summary:S23",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 11.87,
+      "tokens_in": 5137,
+      "tokens_out": 117
+    },
+    {
+      "step": "mark:S23",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 5.35,
+      "tokens_in": 5265,
+      "tokens_out": 37
+    },
+    {
+      "step": "summary:S24",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 15.81,
+      "tokens_in": 724,
+      "tokens_out": 150
+    },
+    {
+      "step": "mark:S24",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 3.7,
+      "tokens_in": 889,
+      "tokens_out": 37
+    },
+    {
+      "step": "summary:S25",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 14.22,
+      "tokens_in": 3307,
+      "tokens_out": 121
+    },
+    {
+      "step": "mark:S25",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 7.47,
+      "tokens_in": 3443,
+      "tokens_out": 107
+    },
+    {
+      "step": "summary:S25:rev",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 18.35,
+      "tokens_in": 3523,
+      "tokens_out": 139
+    },
+    {
+      "step": "mark:S25:rev",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 7.64,
+      "tokens_in": 3461,
+      "tokens_out": 37
+    },
+    {
+      "step": "bullets",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 21.86,
+      "tokens_in": 3157,
+      "tokens_out": 275
+    },
+    {
+      "step": "mark:bullets",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 12.73,
+      "tokens_in": 3394,
+      "tokens_out": 484
+    },
+    {
+      "step": "bullets:rev",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 23.99,
+      "tokens_in": 3286,
+      "tokens_out": 347
+    },
+    {
+      "step": "mark:bullets:rev",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 8.84,
+      "tokens_in": 3392,
+      "tokens_out": 400
+    },
+    {
+      "step": "themes:00",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 64.56,
+      "tokens_in": 4914,
+      "tokens_out": 764
+    },
+    {
+      "step": "themes:01",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 44.78,
+      "tokens_in": 4895,
+      "tokens_out": 693
+    },
+    {
+      "step": "themes:02",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 104.62,
+      "tokens_in": 4799,
+      "tokens_out": 609
+    },
+    {
+      "step": "themes:03",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 65.15,
+      "tokens_in": 4042,
+      "tokens_out": 740
+    },
+    {
+      "step": "themes:04",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 24.08,
+      "tokens_in": 6160,
+      "tokens_out": 609
+    },
+    {
+      "step": "themes:05",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 16.18,
+      "tokens_in": 5978,
+      "tokens_out": 601
+    },
+    {
+      "step": "themes:06",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 18.49,
+      "tokens_in": 5956,
+      "tokens_out": 714
+    },
+    {
+      "step": "themes:07",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 6.07,
+      "tokens_in": 4582,
+      "tokens_out": 672
+    },
+    {
+      "step": "themes:08",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 98.28,
+      "tokens_in": 5363,
+      "tokens_out": 715
+    },
+    {
+      "step": "themes:09",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 4.07,
+      "tokens_in": 4663,
+      "tokens_out": 430
+    },
+    {
+      "step": "themes:10",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 50.16,
+      "tokens_in": 4674,
+      "tokens_out": 754
+    },
+    {
+      "step": "themes:11",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 86.79,
+      "tokens_in": 4638,
+      "tokens_out": 609
+    },
+    {
+      "step": "themes:12",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 117.53,
+      "tokens_in": 4831,
+      "tokens_out": 605
+    },
+    {
+      "step": "themes:13",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 11.81,
+      "tokens_in": 2302,
+      "tokens_out": 336
+    },
+    {
+      "step": "points",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 38.03,
+      "tokens_in": 14484,
+      "tokens_out": 899
+    },
+    {
+      "step": "mark:points",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 18.19,
+      "tokens_in": 984,
+      "tokens_out": 764
+    },
+    {
+      "step": "indicators",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 15.71,
+      "tokens_in": 10432,
+      "tokens_out": 724
+    },
+    {
+      "step": "audit:indicators",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 9.68,
+      "tokens_in": 10731,
+      "tokens_out": 305
+    },
+    {
+      "step": "series:Table 1",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 10.34,
+      "tokens_in": 2081,
+      "tokens_out": 442
+    },
+    {
+      "step": "series:Table 5",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 7.07,
+      "tokens_in": 1258,
+      "tokens_out": 284
+    },
+    {
+      "step": "answer:single:Q01",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 4.48,
+      "tokens_in": 2039,
+      "tokens_out": 135
+    },
+    {
+      "step": "mark:single:Q01",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 2.97,
+      "tokens_in": 2130,
+      "tokens_out": 85
+    },
+    {
+      "step": "answer:single:Q02",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 3.75,
+      "tokens_in": 1758,
+      "tokens_out": 121
+    },
+    {
+      "step": "mark:single:Q02",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 2.43,
+      "tokens_in": 1843,
+      "tokens_out": 109
+    },
+    {
+      "step": "answer:single:Q03",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 6.53,
+      "tokens_in": 1936,
+      "tokens_out": 45
+    },
+    {
+      "step": "mark:single:Q03",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 3.11,
+      "tokens_in": 1965,
+      "tokens_out": 102
+    },
+    {
+      "step": "answer:single:Q04",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 3.56,
+      "tokens_in": 1976,
+      "tokens_out": 76
+    },
+    {
+      "step": "mark:single:Q04",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 2.43,
+      "tokens_in": 2025,
+      "tokens_out": 91
+    },
+    {
+      "step": "answer:single:Q05",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 2.63,
+      "tokens_in": 2270,
+      "tokens_out": 66
+    },
+    {
+      "step": "mark:single:Q05",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 2.06,
+      "tokens_in": 2314,
+      "tokens_out": 86
+    },
+    {
+      "step": "answer:single:Q06",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 3.94,
+      "tokens_in": 1848,
+      "tokens_out": 116
+    },
+    {
+      "step": "mark:single:Q06",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 3.24,
+      "tokens_in": 1937,
+      "tokens_out": 135
+    },
+    {
+      "step": "answer:single:Q07",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 3.15,
+      "tokens_in": 2016,
+      "tokens_out": 42
+    },
+    {
+      "step": "mark:single:Q07",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 1.84,
+      "tokens_in": 2042,
+      "tokens_out": 74
+    },
+    {
+      "step": "answer:single:Q08",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 7.34,
+      "tokens_in": 1869,
+      "tokens_out": 88
+    },
+    {
+      "step": "mark:single:Q08",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 3.41,
+      "tokens_in": 1929,
+      "tokens_out": 97
+    },
+    {
+      "step": "answer:single:Q09",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 4.57,
+      "tokens_in": 1727,
+      "tokens_out": 141
+    },
+    {
+      "step": "mark:single:Q09",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 2.54,
+      "tokens_in": 1832,
+      "tokens_out": 85
+    },
+    {
+      "step": "answer:single:Q10",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 6.87,
+      "tokens_in": 2007,
+      "tokens_out": 40
+    },
+    {
+      "step": "mark:single:Q10",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 2.95,
+      "tokens_in": 2031,
+      "tokens_out": 75
+    },
+    {
+      "step": "angles:Q01",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 7.8,
+      "tokens_in": 133,
+      "tokens_out": 77
+    },
+    {
+      "step": "answer:perspectives:Q01",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 6.08,
+      "tokens_in": 1959,
+      "tokens_out": 108
+    },
+    {
+      "step": "mark:perspectives:Q01",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 2.49,
+      "tokens_in": 2039,
+      "tokens_out": 122
+    },
+    {
+      "step": "angles:Q02",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 10.37,
+      "tokens_in": 129,
+      "tokens_out": 49
+    },
+    {
+      "step": "answer:perspectives:Q02",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 4.15,
+      "tokens_in": 1740,
+      "tokens_out": 120
+    },
+    {
+      "step": "mark:perspectives:Q02",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 2.64,
+      "tokens_in": 1824,
+      "tokens_out": 80
+    },
+    {
+      "step": "angles:Q03",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 7.5,
+      "tokens_in": 122,
+      "tokens_out": 52
+    },
+    {
+      "step": "answer:perspectives:Q03",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 6.68,
+      "tokens_in": 1892,
+      "tokens_out": 46
+    },
+    {
+      "step": "mark:perspectives:Q03",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 4.21,
+      "tokens_in": 1922,
+      "tokens_out": 82
+    },
+    {
+      "step": "angles:Q04",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 7.76,
+      "tokens_in": 130,
+      "tokens_out": 67
+    },
+    {
+      "step": "answer:perspectives:Q04",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 3.36,
+      "tokens_in": 2074,
+      "tokens_out": 48
+    },
+    {
+      "step": "mark:perspectives:Q04",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 2.17,
+      "tokens_in": 2112,
+      "tokens_out": 93
+    },
+    {
+      "step": "angles:Q05",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 7.88,
+      "tokens_in": 118,
+      "tokens_out": 51
+    },
+    {
+      "step": "answer:perspectives:Q05",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 2.92,
+      "tokens_in": 2259,
+      "tokens_out": 40
+    },
+    {
+      "step": "mark:perspectives:Q05",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 1.79,
+      "tokens_in": 2283,
+      "tokens_out": 84
+    },
+    {
+      "step": "angles:Q06",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 7.75,
+      "tokens_in": 128,
+      "tokens_out": 63
+    },
+    {
+      "step": "answer:perspectives:Q06",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 4.08,
+      "tokens_in": 1827,
+      "tokens_out": 82
+    },
+    {
+      "step": "mark:perspectives:Q06",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 2.46,
+      "tokens_in": 1899,
+      "tokens_out": 83
+    },
+    {
+      "step": "angles:Q07",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 7.66,
+      "tokens_in": 119,
+      "tokens_out": 52
+    },
+    {
+      "step": "answer:perspectives:Q07",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 3.99,
+      "tokens_in": 2083,
+      "tokens_out": 48
+    },
+    {
+      "step": "mark:perspectives:Q07",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 3.55,
+      "tokens_in": 2114,
+      "tokens_out": 70
+    },
+    {
+      "step": "angles:Q08",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 8.35,
+      "tokens_in": 123,
+      "tokens_out": 46
+    },
+    {
+      "step": "answer:perspectives:Q08",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 5.05,
+      "tokens_in": 1905,
+      "tokens_out": 73
+    },
+    {
+      "step": "mark:perspectives:Q08",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 2.72,
+      "tokens_in": 1950,
+      "tokens_out": 98
+    },
+    {
+      "step": "angles:Q09",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 8.56,
+      "tokens_in": 121,
+      "tokens_out": 67
+    },
+    {
+      "step": "answer:perspectives:Q09",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 3.77,
+      "tokens_in": 1778,
+      "tokens_out": 85
+    },
+    {
+      "step": "mark:perspectives:Q09",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 2.74,
+      "tokens_in": 1827,
+      "tokens_out": 106
+    },
+    {
+      "step": "angles:Q10",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 6.59,
+      "tokens_in": 122,
+      "tokens_out": 61
+    },
+    {
+      "step": "answer:perspectives:Q10",
+      "role": "writer",
+      "model": "gemini-3.7-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 10.95,
+      "tokens_in": 1991,
+      "tokens_out": 40
+    },
+    {
+      "step": "mark:perspectives:Q10",
+      "role": "judge",
+      "model": "gemini-3.5-flash",
+      "source": "ledger",
+      "repair": false,
+      "seconds": 2.27,
+      "tokens_in": 2015,
+      "tokens_out": 92
+    }
+  ]
+}

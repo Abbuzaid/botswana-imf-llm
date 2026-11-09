@@ -1,0 +1,14 @@
+[
+  {
+    "window": 320,
+    "windows": 202,
+    "mean_gold_recall": 0.741,
+    "gold_reached": 8
+  },
+  {
+    "window": 410,
+    "windows": 153,
+    "mean_gold_recall": 0.574,
+    "gold_reached": 7
+  }
+]

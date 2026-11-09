@@ -1,0 +1,119 @@
+{
+  "bullets": {
+    "bullets": [
+      {
+        "section_id": "S06",
+        "sentence": "Section S06 reports that diamond headwinds contracted economic activity by 3 percent in 2024, prompting sovereign rating downgrades by S&P and Moody's alongside widening deficits."
+      },
+      {
+        "section_id": "S08",
+        "sentence": "Section S08 warns that net debt is projected to exceed 40 percent of GDP by end-FY25/26, recommending 6.4 ppts consolidation by 2030 to keep public debt under 50 percent."
+      },
+      {
+        "section_id": "S09",
+        "sentence": "Section S09 recommends increasing the policy rate to stem reserve declines and support the crawling peg, alongside technical adjustments to the REER framework to address a 10.5 percent exchange rate overvaluation."
+      },
+      {
+        "section_id": "S13",
+        "sentence": "Section S13 reports that the banking sector maintains regulatory capital to risk-weighted assets of 19.1 percent, even as end-of-year reserves fall to 3,064 million U.S. dollars."
+      },
+      {
+        "section_id": "S16",
+        "sentence": "Section S16 identifies high-impact threats stemming from falling global rough diamond prices, delayed fiscal consolidation, and impaired monetary policy transmission amid liquidity stress, with fiscal buffers depleted."
+      }
+    ]
+  },
+  "marks": {
+    "checks": [
+      {
+        "number": 1,
+        "supported": true,
+        "reason": "S06 explicitly states that diamond headwinds contracted economic activity by 3 percent in 2024, widened the fiscal deficit, and prompted sovereign rating downgrades by S&P and Moody's."
+      },
+      {
+        "number": 2,
+        "supported": true,
+        "reason": "S08 confirms that net debt is projected to exceed 40 percent of GDP by end-FY25/26 and recommends a consolidation of 6.4 ppts of GDP by 2030 to maintain public debt below 50 percent of GDP."
+      },
+      {
+        "number": 3,
+        "supported": true,
+        "reason": "S09 supports recommending a policy rate increase to stem reserve declines and support the crawling peg, as well as technical adjustments to the REER framework noting a 10.5 percent exchange rate overvaluation."
+      },
+      {
+        "number": 4,
+        "supported": true,
+        "reason": "S13 reports that end-of-year reserves fall to 3,064 million U.S. dollars while the banking sector maintains regulatory capital to risk-weighted assets of 19.1 percent."
+      },
+      {
+        "number": 5,
+        "supported": true,
+        "reason": "S16 explicitly identifies high-impact threats from falling global rough diamond prices, delayed fiscal consolidation, and impaired monetary policy transmission amid liquidity stress and depleted fiscal buffers."
+      }
+    ],
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "faults": []
+  },
+  "first_set": {
+    "bullets": [
+      {
+        "section_id": "S06",
+        "sentence": "Diamond headwinds contracted economic activity by 3 percent in 2024, widening the fiscal deficit to 7.1 percent of GDP and prompting sovereign rating downgrades by S&P and Moody's."
+      },
+      {
+        "section_id": "S08",
+        "sentence": "With net debt projected to exceed 40 percent of GDP by end-FY25/26, staff recommends consolidating 4.7 ppts of GDP over three years to keep public debt under 50 percent of GDP."
+      },
+      {
+        "section_id": "S09",
+        "sentence": "To stem reserve declines and address an estimated 10.5 percent exchange rate overvaluation, staff urges increasing the policy rate from 1.9 percent toward its interest rate parity level of about 7.5 percent."
+      },
+      {
+        "section_id": "S18",
+        "sentence": "Financial sector oversight is advancing as the Banking Act 2023 commenced on 15 August 2025 for consolidated supervision, alongside Liquidity Coverage Ratio guidelines set for implementation on 1 December 2025."
+      },
+      {
+        "section_id": "S16",
+        "sentence": "High-impact conjunctural risks threatening the baseline include falling global rough diamond prices, delayed fiscal consolidation, and impaired monetary policy transmission amid liquidity stress and depleted fiscal buffers."
+      }
+    ]
+  },
+  "first_marks": {
+    "checks": [
+      {
+        "number": 1,
+        "supported": true,
+        "reason": "Summary S06 directly supports that diamond headwinds contracted economic activity by 3 percent in 2024, widened the fiscal deficit to 7.1 percent of GDP, and prompted sovereign rating downgrades by S&P and Moody's."
+      },
+      {
+        "number": 2,
+        "supported": true,
+        "reason": "Summary S08 directly supports that net debt is projected to exceed 40 percent of GDP by end-FY25/26 and staff recommends consolidating 4.7 ppts of GDP over three years to keep public debt under 50 percent of GDP."
+      },
+      {
+        "number": 3,
+        "supported": false,
+        "reason": "Summary S09 recommends increasing the policy rate to stem reserve declines and support the crawling peg, whereas technical adjustments to the REER framework (not policy rate hikes) are urged to address the 10.5 percent exchange rate overvaluation."
+      },
+      {
+        "number": 4,
+        "supported": true,
+        "reason": "Summary S18 directly supports that the Banking Act 2023 commenced on 15 August 2025 for consolidated supervision and Liquidity Coverage Ratio guidelines are scheduled for implementation on 1 December 2025."
+      },
+      {
+        "number": 5,
+        "supported": true,
+        "reason": "Summary S16 directly supports that high-impact risks include falling global rough diamond prices, delayed fiscal consolidation, and impaired monetary policy transmission amid liquidity stress and depleted fiscal buffers."
+      }
+    ],
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 4,
+    "faults": [
+      "Bullet 3 incorrectly attributes addressing the 10.5 percent exchange rate overvaluation to increasing the policy rate, whereas S09 specifies that technical adjustments to the REER framework are recommended for overvaluation, while policy rate hikes are intended to stem reserve declines and support the crawling peg."
+    ]
+  },
+  "revision_kept": true
+}

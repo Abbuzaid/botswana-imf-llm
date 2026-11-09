@@ -1,0 +1,430 @@
+[
+  {
+    "qid": "Q01",
+    "question": "By how much did Botswana's economy contract in 2024 and what is projected for 2025?",
+    "reference": "Activity contracted by 3 percent in 2024 and is projected to contract by a further 1 percent in 2025.",
+    "gold": [
+      2,
+      3,
+      5
+    ],
+    "retrieved": [
+      "W062",
+      "W007",
+      "W019",
+      "W004",
+      "W069"
+    ],
+    "pages": [
+      2,
+      3,
+      4,
+      5,
+      10,
+      30,
+      31,
+      32,
+      35,
+      36
+    ],
+    "similarity": [
+      0.779,
+      0.776,
+      0.745,
+      0.738,
+      0.723
+    ],
+    "seconds": 0.401,
+    "gold_hit": true,
+    "gold_recall": 1.0,
+    "answer": "In 2024, Botswana's economy contracted by 3 percent (real GDP growth of -3.0 percent) [W007], [W019]. For 2025, economic activity is projected to contract by a further 1 percent (or -1.0 percent) before recovering gradually over the medium term [W004], [W007].",
+    "citations": [
+      "W004",
+      "W007",
+      "W019"
+    ],
+    "answerable": true,
+    "faithfulness": 5,
+    "completeness": 5,
+    "faithfulness_reason": "The answer accurately reflects the figures and projections reported in the provided passages for both 2024 and 2025.",
+    "completeness_reason": "The answer completely addresses both parts of the question using all relevant details from the provided source text."
+  },
+  {
+    "qid": "Q02",
+    "question": "What is the Bank of Botswana's monetary policy rate after its latest increase, and what was it before?",
+    "reference": "It was raised by 160 basis points from 1.9 percent to 3.5 percent in October 2025.",
+    "gold": [
+      2,
+      85
+    ],
+    "retrieved": [
+      "W197",
+      "W198",
+      "W158",
+      "W046",
+      "W003"
+    ],
+    "pages": [
+      2,
+      23,
+      67,
+      85,
+      86
+    ],
+    "similarity": [
+      0.722,
+      0.659,
+      0.656,
+      0.646,
+      0.636
+    ],
+    "seconds": 0.21,
+    "gold_hit": true,
+    "gold_recall": 1.0,
+    "answer": "Following its latest increase of 160 basis points in October 2025, the Bank of Botswana's Monetary Policy Rate (MoPR) is 3.5 percent [W197]. Prior to this rate hike, the MoPR was 1.9 percent, having been held at that level since August 2024 [W198].",
+    "citations": [
+      "W197",
+      "W198"
+    ],
+    "answerable": true,
+    "faithfulness": 5,
+    "completeness": 5,
+    "faithfulness_reason": "The answer accurately reflects the information in the provided passages regarding the Bank of Botswana's monetary policy rate increase to 3.5 percent in October 2025 and its previous rate of 1.9 percent since August 2024.",
+    "completeness_reason": "The answer completely and directly addresses both parts of the question using exact details from the text."
+  },
+  {
+    "qid": "Q03",
+    "question": "What is the statutory ceiling on public debt, and which law sets it?",
+    "reference": "40 percent of GDP, under the Stock, Bonds and Treasury Bills Act of 2005.",
+    "gold": [
+      22
+    ],
+    "retrieved": [
+      "W045",
+      "W044",
+      "W094",
+      "W073",
+      "W089"
+    ],
+    "pages": [
+      22,
+      23,
+      36,
+      37,
+      42,
+      43,
+      44
+    ],
+    "similarity": [
+      0.61,
+      0.591,
+      0.46,
+      0.449,
+      0.444
+    ],
+    "seconds": 0.165,
+    "gold_hit": true,
+    "gold_recall": 1.0,
+    "answer": "The provided passages do not contain the statutory ceiling on public debt or the full title of the law that sets it.",
+    "citations": [],
+    "answerable": false,
+    "faithfulness": 5,
+    "completeness": 5,
+    "faithfulness_reason": "The answer accurately states that the passages do not provide the exact statutory ceiling on public debt or the full title of the law setting it.",
+    "completeness_reason": "The refusal is fully complete as the provided text passages only contain a truncated snippet 'Act of 2005' and do not state the current numerical statutory debt ceiling."
+  },
+  {
+    "qid": "Q04",
+    "question": "How much is the exchange rate overvalued according to IMF staff's external assessment for 2024?",
+    "reference": "An estimated 10.5 percent overvaluation.",
+    "gold": [
+      24,
+      49
+    ],
+    "retrieved": [
+      "W048",
+      "W128",
+      "W002",
+      "W010",
+      "W049"
+    ],
+    "pages": [
+      2,
+      5,
+      24,
+      25,
+      55
+    ],
+    "similarity": [
+      0.548,
+      0.544,
+      0.513,
+      0.51,
+      0.504
+    ],
+    "seconds": 0.216,
+    "gold_hit": true,
+    "gold_recall": 0.5,
+    "answer": "According to the external stability assessment, Botswana's exchange rate had an estimated 10.5 percent overvaluation in 2024, as the external position was weaker than the level implied by fundamentals.",
+    "citations": [
+      "W048"
+    ],
+    "answerable": true,
+    "faithfulness": 5,
+    "completeness": 5,
+    "faithfulness_reason": "The answer accurately states the 10.5 percent overvaluation figure for 2024 and the context regarding fundamentals as reported in passage W048.",
+    "completeness_reason": "The answer fully answers the question asked using the precise estimate and detail provided in the passages."
+  },
+  {
+    "qid": "Q05",
+    "question": "What were overall and youth unemployment in the latest data?",
+    "reference": "27.6 percent overall and 38.2 percent for youth in 2024Q1.",
+    "gold": [
+      2,
+      10
+    ],
+    "retrieved": [
+      "W125",
+      "W019",
+      "W075",
+      "W128",
+      "W010"
+    ],
+    "pages": [
+      5,
+      10,
+      37,
+      55
+    ],
+    "similarity": [
+      0.409,
+      0.397,
+      0.378,
+      0.373,
+      0.372
+    ],
+    "seconds": 0.199,
+    "gold_hit": true,
+    "gold_recall": 0.5,
+    "answer": "According to the latest data (2024Q1), overall unemployment was 27.6 percent and youth unemployment was 38.2 percent [W019].",
+    "citations": [
+      "W019"
+    ],
+    "answerable": true,
+    "faithfulness": 5,
+    "completeness": 5,
+    "faithfulness_reason": "The answer accurately reflects the overall and youth unemployment figures for 2024Q1 as stated in passage W019.",
+    "completeness_reason": "The answer fully answers the question by providing both overall and youth unemployment rates from the latest available data."
+  },
+  {
+    "qid": "Q06",
+    "question": "How did the Bank of Botswana change the crawl and the trading band in July 2025?",
+    "reference": "The rate of depreciation rose from 1.51 to 2.76 percent and the band widened from plus or minus 0.5 to plus or minus 7.5 percent.",
+    "gold": [
+      13,
+      49,
+      85
+    ],
+    "retrieved": [
+      "W063",
+      "W110",
+      "W139",
+      "W198",
+      "W020"
+    ],
+    "pages": [
+      10,
+      11,
+      32,
+      33,
+      34,
+      35,
+      49,
+      59,
+      85,
+      86
+    ],
+    "similarity": [
+      0.638,
+      0.617,
+      0.612,
+      0.611,
+      0.602
+    ],
+    "seconds": 0.195,
+    "gold_hit": true,
+    "gold_recall": 0.6666666666666666,
+    "answer": "On July 10, 2025, the authorities adjusted the exchange rate policy by increasing the rate of crawl (depreciation of the Pula against its basket of currencies) from 1.51 percent to 2.76 percent. In addition, they widened the trading band from ±0.5 percent to ±7.5 percent to support economic growth and preserve foreign exchange reserves.",
+    "citations": [
+      "W198"
+    ],
+    "answerable": true,
+    "faithfulness": 5,
+    "completeness": 5,
+    "faithfulness_reason": "The answer is fully supported by passage W198, which states that on July 10, 2025, the authorities increased the rate of depreciation from 1.51 percent to 2.76 percent and widened the trading band from ±0.5 percent to ±7.5 percent.",
+    "completeness_reason": "The answer accurately provides all the details present in the source text regarding the changes to the crawl rate and trading band in July 2025."
+  },
+  {
+    "qid": "Q07",
+    "question": "How large is household debt and what has been driving it?",
+    "reference": "It has doubled to around 22 percent of GDP between 2007 and June 2025, driven by unsecured short-term personal loans.",
+    "gold": [
+      13
+    ],
+    "retrieved": [
+      "W089",
+      "W102",
+      "W045",
+      "W094",
+      "W072"
+    ],
+    "pages": [
+      22,
+      23,
+      36,
+      42,
+      43,
+      44,
+      46
+    ],
+    "similarity": [
+      0.419,
+      0.411,
+      0.411,
+      0.407,
+      0.403
+    ],
+    "seconds": 0.159,
+    "gold_hit": false,
+    "gold_recall": 0.0,
+    "answer": "The provided passages do not contain information regarding the size of household debt or what has been driving it.",
+    "citations": [],
+    "answerable": false,
+    "faithfulness": 5,
+    "completeness": 5,
+    "faithfulness_reason": "The answer accurately states that the provided passages do not contain information regarding household debt.",
+    "completeness_reason": "The refusal is completely justified as none of the provided context passages mention household debt or its drivers."
+  },
+  {
+    "qid": "Q08",
+    "question": "What was the regulatory tier 1 capital ratio of banks in the latest data?",
+    "reference": "13.5 percent in 2025, with data up to March 2025.",
+    "gold": [
+      39
+    ],
+    "retrieved": [
+      "W082",
+      "W026",
+      "W199",
+      "W130",
+      "W159"
+    ],
+    "pages": [
+      13,
+      14,
+      38,
+      39,
+      56,
+      67,
+      85,
+      86
+    ],
+    "similarity": [
+      0.538,
+      0.537,
+      0.518,
+      0.511,
+      0.498
+    ],
+    "seconds": 0.156,
+    "gold_hit": true,
+    "gold_recall": 1.0,
+    "answer": "According to the financial soundness indicators, the regulatory tier 1 capital to risk-weighted assets of banks was 13.5 percent in 2025 (and 12.7 percent in 2024) [W082].",
+    "citations": [
+      "W082"
+    ],
+    "answerable": true,
+    "faithfulness": 5,
+    "completeness": 5,
+    "faithfulness_reason": "The answer accurately reflects the regulatory tier 1 capital to risk-weighted assets ratio reported in Table 5 of passage [W082] for 2024 and 2025.",
+    "completeness_reason": "The answer fully responds to the prompt using the latest data presented in the passages."
+  },
+  {
+    "qid": "Q09",
+    "question": "What is the overall risk of sovereign stress in the debt sustainability analysis?",
+    "reference": "Moderate overall, with moderate vulnerability in the near term and moderate to high levels in the medium and long terms.",
+    "gold": [
+      40
+    ],
+    "retrieved": [
+      "W086",
+      "W088",
+      "W087",
+      "W099",
+      "W098"
+    ],
+    "pages": [
+      40,
+      41,
+      42,
+      45
+    ],
+    "similarity": [
+      0.715,
+      0.637,
+      0.628,
+      0.602,
+      0.562
+    ],
+    "seconds": 0.175,
+    "gold_hit": true,
+    "gold_recall": 1.0,
+    "answer": "Botswana's overall risk of sovereign stress is assessed as moderate, reflecting moderate levels of vulnerability in the near term and moderate to high levels in the medium and long terms [W086], [W087]. Although measures under the baseline scenario would be insufficient to stabilize the public debt-to-GDP ratio, the implementation of more ambitious reforms, such as those under the resilient scenario, would be sufficient to stabilize debt [W086], [W087].",
+    "citations": [
+      "W086",
+      "W087"
+    ],
+    "answerable": true,
+    "faithfulness": 5,
+    "completeness": 5,
+    "faithfulness_reason": "The answer accurately states the overall risk of sovereign stress and the underlying details as given in the source passages without any extrapolation.",
+    "completeness_reason": "The answer fully answers the question regarding the overall risk of sovereign stress using all relevant details provided in the text."
+  },
+  {
+    "qid": "Q10",
+    "question": "What real GDP growth does the report project for 2035?",
+    "reference": "Not in the report: projections end in 2030.",
+    "gold": [],
+    "retrieved": [
+      "W193",
+      "W093",
+      "W125",
+      "W095",
+      "W032"
+    ],
+    "pages": [
+      16,
+      43,
+      44,
+      55,
+      83
+    ],
+    "similarity": [
+      0.62,
+      0.595,
+      0.559,
+      0.542,
+      0.537
+    ],
+    "seconds": 0.176,
+    "gold_hit": null,
+    "gold_recall": null,
+    "answer": "The provided passages do not contain projections for real GDP growth in 2035.",
+    "citations": [],
+    "answerable": false,
+    "faithfulness": 5,
+    "completeness": 5,
+    "faithfulness_reason": "The answer accurately states that the provided passages do not contain real GDP growth projections for the year 2035.",
+    "completeness_reason": "The refusal is fully accurate and complete because 2035 is not mentioned anywhere in the source text."
+  }
+]

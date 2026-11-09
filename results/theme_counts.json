@@ -1,0 +1,1379 @@
+{
+  "themes": [
+    {
+      "theme": "Inflation & Prices",
+      "lexicon_matches": 45,
+      "llm_primary": 6,
+      "llm_any": 36
+    },
+    {
+      "theme": "Interest Rates & Credit",
+      "lexicon_matches": 84,
+      "llm_primary": 11,
+      "llm_any": 59
+    },
+    {
+      "theme": "Housing & Real Estate",
+      "lexicon_matches": 3,
+      "llm_primary": 0,
+      "llm_any": 3
+    },
+    {
+      "theme": "Banking Capital & Liquidity",
+      "lexicon_matches": 45,
+      "llm_primary": 21,
+      "llm_any": 43
+    },
+    {
+      "theme": "Sovereign Debt",
+      "lexicon_matches": 84,
+      "llm_primary": 48,
+      "llm_any": 98
+    },
+    {
+      "theme": "Labor Market Dynamics",
+      "lexicon_matches": 65,
+      "llm_primary": 2,
+      "llm_any": 26
+    },
+    {
+      "theme": "Systemic Financial Risk",
+      "lexicon_matches": 45,
+      "llm_primary": 11,
+      "llm_any": 28
+    }
+  ],
+  "tau_any": 0.5821817364274594,
+  "tau_primary": 0.4338609156373123,
+  "window_agreement": 0.49504950495049505,
+  "none": 103,
+  "tags": [
+    {
+      "passage_id": "W000",
+      "primary": "none",
+      "others": []
+    },
+    {
+      "passage_id": "W001",
+      "primary": "none",
+      "others": []
+    },
+    {
+      "passage_id": "W002",
+      "primary": "none",
+      "others": [
+        "Labor Market Dynamics",
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W003",
+      "primary": "none",
+      "others": [
+        "Inflation & Prices",
+        "Interest Rates & Credit",
+        "Labor Market Dynamics"
+      ]
+    },
+    {
+      "passage_id": "W004",
+      "primary": "none",
+      "others": [
+        "Inflation & Prices",
+        "Interest Rates & Credit",
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W005",
+      "primary": "Sovereign Debt",
+      "others": [
+        "Interest Rates & Credit"
+      ]
+    },
+    {
+      "passage_id": "W006",
+      "primary": "Systemic Financial Risk",
+      "others": [
+        "Banking Capital & Liquidity",
+        "Interest Rates & Credit",
+        "Labor Market Dynamics",
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W007",
+      "primary": "none",
+      "others": [
+        "Inflation & Prices"
+      ]
+    },
+    {
+      "passage_id": "W008",
+      "primary": "none",
+      "others": [
+        "Interest Rates & Credit"
+      ]
+    },
+    {
+      "passage_id": "W009",
+      "primary": "Sovereign Debt",
+      "others": []
+    },
+    {
+      "passage_id": "W010",
+      "primary": "none",
+      "others": [
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W011",
+      "primary": "none",
+      "others": [
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W012",
+      "primary": "none",
+      "others": [
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W013",
+      "primary": "none",
+      "others": [
+        "Banking Capital & Liquidity",
+        "Inflation & Prices",
+        "Interest Rates & Credit",
+        "Sovereign Debt",
+        "Systemic Financial Risk"
+      ]
+    },
+    {
+      "passage_id": "W014",
+      "primary": "none",
+      "others": [
+        "Banking Capital & Liquidity",
+        "Interest Rates & Credit",
+        "Labor Market Dynamics",
+        "Systemic Financial Risk"
+      ]
+    },
+    {
+      "passage_id": "W015",
+      "primary": "none",
+      "others": []
+    },
+    {
+      "passage_id": "W016",
+      "primary": "none",
+      "others": []
+    },
+    {
+      "passage_id": "W017",
+      "primary": "none",
+      "others": [
+        "Labor Market Dynamics"
+      ]
+    },
+    {
+      "passage_id": "W018",
+      "primary": "none",
+      "others": [
+        "Banking Capital & Liquidity",
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W019",
+      "primary": "Labor Market Dynamics",
+      "others": [
+        "Inflation & Prices"
+      ]
+    },
+    {
+      "passage_id": "W020",
+      "primary": "Inflation & Prices",
+      "others": [
+        "Labor Market Dynamics"
+      ]
+    },
+    {
+      "passage_id": "W021",
+      "primary": "Sovereign Debt",
+      "others": [
+        "Banking Capital & Liquidity",
+        "Interest Rates & Credit"
+      ]
+    },
+    {
+      "passage_id": "W022",
+      "primary": "Sovereign Debt",
+      "others": [
+        "Interest Rates & Credit"
+      ]
+    },
+    {
+      "passage_id": "W023",
+      "primary": "none",
+      "others": [
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W024",
+      "primary": "Interest Rates & Credit",
+      "others": [
+        "Inflation & Prices"
+      ]
+    },
+    {
+      "passage_id": "W025",
+      "primary": "Banking Capital & Liquidity",
+      "others": [
+        "Interest Rates & Credit"
+      ]
+    },
+    {
+      "passage_id": "W026",
+      "primary": "Banking Capital & Liquidity",
+      "others": [
+        "Interest Rates & Credit"
+      ]
+    },
+    {
+      "passage_id": "W027",
+      "primary": "Banking Capital & Liquidity",
+      "others": [
+        "Interest Rates & Credit",
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W028",
+      "primary": "Systemic Financial Risk",
+      "others": [
+        "Banking Capital & Liquidity"
+      ]
+    },
+    {
+      "passage_id": "W029",
+      "primary": "Inflation & Prices",
+      "others": []
+    },
+    {
+      "passage_id": "W030",
+      "primary": "none",
+      "others": []
+    },
+    {
+      "passage_id": "W031",
+      "primary": "none",
+      "others": []
+    },
+    {
+      "passage_id": "W032",
+      "primary": "Sovereign Debt",
+      "others": [
+        "Inflation & Prices"
+      ]
+    },
+    {
+      "passage_id": "W033",
+      "primary": "none",
+      "others": [
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W034",
+      "primary": "Sovereign Debt",
+      "others": []
+    },
+    {
+      "passage_id": "W035",
+      "primary": "Sovereign Debt",
+      "others": []
+    },
+    {
+      "passage_id": "W036",
+      "primary": "Sovereign Debt",
+      "others": []
+    },
+    {
+      "passage_id": "W037",
+      "primary": "Sovereign Debt",
+      "others": []
+    },
+    {
+      "passage_id": "W038",
+      "primary": "Sovereign Debt",
+      "others": []
+    },
+    {
+      "passage_id": "W039",
+      "primary": "Sovereign Debt",
+      "others": [
+        "Housing & Real Estate",
+        "Labor Market Dynamics"
+      ]
+    },
+    {
+      "passage_id": "W040",
+      "primary": "Labor Market Dynamics",
+      "others": [
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W041",
+      "primary": "none",
+      "others": [
+        "Labor Market Dynamics"
+      ]
+    },
+    {
+      "passage_id": "W042",
+      "primary": "Sovereign Debt",
+      "others": [
+        "Labor Market Dynamics"
+      ]
+    },
+    {
+      "passage_id": "W043",
+      "primary": "Sovereign Debt",
+      "others": []
+    },
+    {
+      "passage_id": "W044",
+      "primary": "Sovereign Debt",
+      "others": []
+    },
+    {
+      "passage_id": "W045",
+      "primary": "Sovereign Debt",
+      "others": []
+    },
+    {
+      "passage_id": "W046",
+      "primary": "Interest Rates & Credit",
+      "others": [
+        "Inflation & Prices"
+      ]
+    },
+    {
+      "passage_id": "W047",
+      "primary": "Inflation & Prices",
+      "others": [
+        "Interest Rates & Credit"
+      ]
+    },
+    {
+      "passage_id": "W048",
+      "primary": "Systemic Financial Risk",
+      "others": [
+        "Housing & Real Estate",
+        "Inflation & Prices",
+        "Interest Rates & Credit",
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W049",
+      "primary": "Systemic Financial Risk",
+      "others": [
+        "Interest Rates & Credit"
+      ]
+    },
+    {
+      "passage_id": "W050",
+      "primary": "Banking Capital & Liquidity",
+      "others": [
+        "Interest Rates & Credit",
+        "Sovereign Debt",
+        "Systemic Financial Risk"
+      ]
+    },
+    {
+      "passage_id": "W051",
+      "primary": "Interest Rates & Credit",
+      "others": []
+    },
+    {
+      "passage_id": "W052",
+      "primary": "none",
+      "others": [
+        "Interest Rates & Credit",
+        "Labor Market Dynamics"
+      ]
+    },
+    {
+      "passage_id": "W053",
+      "primary": "none",
+      "others": [
+        "Inflation & Prices"
+      ]
+    },
+    {
+      "passage_id": "W054",
+      "primary": "none",
+      "others": []
+    },
+    {
+      "passage_id": "W055",
+      "primary": "none",
+      "others": []
+    },
+    {
+      "passage_id": "W056",
+      "primary": "none",
+      "others": [
+        "Inflation & Prices",
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W057",
+      "primary": "none",
+      "others": [
+        "Interest Rates & Credit",
+        "Systemic Financial Risk"
+      ]
+    },
+    {
+      "passage_id": "W058",
+      "primary": "none",
+      "others": [
+        "Inflation & Prices",
+        "Interest Rates & Credit",
+        "Labor Market Dynamics",
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W059",
+      "primary": "Sovereign Debt",
+      "others": [
+        "Interest Rates & Credit",
+        "Labor Market Dynamics"
+      ]
+    },
+    {
+      "passage_id": "W060",
+      "primary": "Interest Rates & Credit",
+      "others": [
+        "Banking Capital & Liquidity",
+        "Labor Market Dynamics",
+        "Sovereign Debt",
+        "Systemic Financial Risk"
+      ]
+    },
+    {
+      "passage_id": "W061",
+      "primary": "none",
+      "others": [
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W062",
+      "primary": "Inflation & Prices",
+      "others": [
+        "Housing & Real Estate",
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W063",
+      "primary": "Interest Rates & Credit",
+      "others": [
+        "Banking Capital & Liquidity"
+      ]
+    },
+    {
+      "passage_id": "W064",
+      "primary": "none",
+      "others": []
+    },
+    {
+      "passage_id": "W065",
+      "primary": "none",
+      "others": []
+    },
+    {
+      "passage_id": "W066",
+      "primary": "none",
+      "others": []
+    },
+    {
+      "passage_id": "W067",
+      "primary": "none",
+      "others": []
+    },
+    {
+      "passage_id": "W068",
+      "primary": "none",
+      "others": []
+    },
+    {
+      "passage_id": "W069",
+      "primary": "none",
+      "others": []
+    },
+    {
+      "passage_id": "W070",
+      "primary": "none",
+      "others": []
+    },
+    {
+      "passage_id": "W071",
+      "primary": "none",
+      "others": [
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W072",
+      "primary": "Sovereign Debt",
+      "others": []
+    },
+    {
+      "passage_id": "W073",
+      "primary": "Sovereign Debt",
+      "others": []
+    },
+    {
+      "passage_id": "W074",
+      "primary": "none",
+      "others": []
+    },
+    {
+      "passage_id": "W075",
+      "primary": "Sovereign Debt",
+      "others": []
+    },
+    {
+      "passage_id": "W076",
+      "primary": "Sovereign Debt",
+      "others": []
+    },
+    {
+      "passage_id": "W077",
+      "primary": "Sovereign Debt",
+      "others": []
+    },
+    {
+      "passage_id": "W078",
+      "primary": "Interest Rates & Credit",
+      "others": [
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W079",
+      "primary": "Interest Rates & Credit",
+      "others": [
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W080",
+      "primary": "Interest Rates & Credit",
+      "others": []
+    },
+    {
+      "passage_id": "W081",
+      "primary": "Interest Rates & Credit",
+      "others": []
+    },
+    {
+      "passage_id": "W082",
+      "primary": "Banking Capital & Liquidity",
+      "others": [
+        "Interest Rates & Credit"
+      ]
+    },
+    {
+      "passage_id": "W083",
+      "primary": "Banking Capital & Liquidity",
+      "others": []
+    },
+    {
+      "passage_id": "W084",
+      "primary": "Banking Capital & Liquidity",
+      "others": []
+    },
+    {
+      "passage_id": "W085",
+      "primary": "Banking Capital & Liquidity",
+      "others": []
+    },
+    {
+      "passage_id": "W086",
+      "primary": "Sovereign Debt",
+      "others": []
+    },
+    {
+      "passage_id": "W087",
+      "primary": "Sovereign Debt",
+      "others": []
+    },
+    {
+      "passage_id": "W088",
+      "primary": "Sovereign Debt",
+      "others": []
+    },
+    {
+      "passage_id": "W089",
+      "primary": "Sovereign Debt",
+      "others": [
+        "Banking Capital & Liquidity"
+      ]
+    },
+    {
+      "passage_id": "W090",
+      "primary": "Sovereign Debt",
+      "others": []
+    },
+    {
+      "passage_id": "W091",
+      "primary": "Sovereign Debt",
+      "others": [
+        "Inflation & Prices",
+        "Interest Rates & Credit"
+      ]
+    },
+    {
+      "passage_id": "W092",
+      "primary": "Sovereign Debt",
+      "others": []
+    },
+    {
+      "passage_id": "W093",
+      "primary": "Sovereign Debt",
+      "others": [
+        "Inflation & Prices",
+        "Interest Rates & Credit"
+      ]
+    },
+    {
+      "passage_id": "W094",
+      "primary": "Sovereign Debt",
+      "others": [
+        "Interest Rates & Credit"
+      ]
+    },
+    {
+      "passage_id": "W095",
+      "primary": "Sovereign Debt",
+      "others": [
+        "Interest Rates & Credit"
+      ]
+    },
+    {
+      "passage_id": "W096",
+      "primary": "Sovereign Debt",
+      "others": [
+        "Interest Rates & Credit"
+      ]
+    },
+    {
+      "passage_id": "W097",
+      "primary": "Sovereign Debt",
+      "others": [
+        "Interest Rates & Credit"
+      ]
+    },
+    {
+      "passage_id": "W098",
+      "primary": "Sovereign Debt",
+      "others": [
+        "Banking Capital & Liquidity",
+        "Systemic Financial Risk"
+      ]
+    },
+    {
+      "passage_id": "W099",
+      "primary": "Sovereign Debt",
+      "others": [
+        "Banking Capital & Liquidity"
+      ]
+    },
+    {
+      "passage_id": "W100",
+      "primary": "Sovereign Debt",
+      "others": [
+        "Banking Capital & Liquidity"
+      ]
+    },
+    {
+      "passage_id": "W101",
+      "primary": "Sovereign Debt",
+      "others": []
+    },
+    {
+      "passage_id": "W102",
+      "primary": "Sovereign Debt",
+      "others": []
+    },
+    {
+      "passage_id": "W103",
+      "primary": "none",
+      "others": [
+        "Inflation & Prices",
+        "Interest Rates & Credit"
+      ]
+    },
+    {
+      "passage_id": "W104",
+      "primary": "none",
+      "others": [
+        "Inflation & Prices",
+        "Interest Rates & Credit",
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W105",
+      "primary": "none",
+      "others": [
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W106",
+      "primary": "none",
+      "others": []
+    },
+    {
+      "passage_id": "W107",
+      "primary": "none",
+      "others": []
+    },
+    {
+      "passage_id": "W108",
+      "primary": "none",
+      "others": [
+        "Inflation & Prices"
+      ]
+    },
+    {
+      "passage_id": "W109",
+      "primary": "none",
+      "others": [
+        "Inflation & Prices",
+        "Interest Rates & Credit"
+      ]
+    },
+    {
+      "passage_id": "W110",
+      "primary": "none",
+      "others": []
+    },
+    {
+      "passage_id": "W111",
+      "primary": "none",
+      "others": [
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W112",
+      "primary": "none",
+      "others": [
+        "Interest Rates & Credit",
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W113",
+      "primary": "none",
+      "others": []
+    },
+    {
+      "passage_id": "W114",
+      "primary": "none",
+      "others": [
+        "Interest Rates & Credit"
+      ]
+    },
+    {
+      "passage_id": "W115",
+      "primary": "none",
+      "others": [
+        "Inflation & Prices"
+      ]
+    },
+    {
+      "passage_id": "W116",
+      "primary": "none",
+      "others": [
+        "Banking Capital & Liquidity",
+        "Inflation & Prices",
+        "Interest Rates & Credit",
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W117",
+      "primary": "none",
+      "others": [
+        "Inflation & Prices"
+      ]
+    },
+    {
+      "passage_id": "W118",
+      "primary": "Sovereign Debt",
+      "others": [
+        "Banking Capital & Liquidity"
+      ]
+    },
+    {
+      "passage_id": "W119",
+      "primary": "Interest Rates & Credit",
+      "others": [
+        "Banking Capital & Liquidity"
+      ]
+    },
+    {
+      "passage_id": "W120",
+      "primary": "Sovereign Debt",
+      "others": [
+        "Interest Rates & Credit"
+      ]
+    },
+    {
+      "passage_id": "W121",
+      "primary": "Sovereign Debt",
+      "others": [
+        "Labor Market Dynamics"
+      ]
+    },
+    {
+      "passage_id": "W122",
+      "primary": "Sovereign Debt",
+      "others": [
+        "Interest Rates & Credit"
+      ]
+    },
+    {
+      "passage_id": "W123",
+      "primary": "none",
+      "others": [
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W124",
+      "primary": "none",
+      "others": [
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W125",
+      "primary": "none",
+      "others": [
+        "Inflation & Prices",
+        "Interest Rates & Credit"
+      ]
+    },
+    {
+      "passage_id": "W126",
+      "primary": "none",
+      "others": [
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W127",
+      "primary": "Sovereign Debt",
+      "others": []
+    },
+    {
+      "passage_id": "W128",
+      "primary": "none",
+      "others": [
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W129",
+      "primary": "none",
+      "others": [
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W130",
+      "primary": "Systemic Financial Risk",
+      "others": [
+        "Banking Capital & Liquidity"
+      ]
+    },
+    {
+      "passage_id": "W131",
+      "primary": "Systemic Financial Risk",
+      "others": [
+        "Banking Capital & Liquidity",
+        "Interest Rates & Credit"
+      ]
+    },
+    {
+      "passage_id": "W132",
+      "primary": "Banking Capital & Liquidity",
+      "others": [
+        "Interest Rates & Credit",
+        "Systemic Financial Risk"
+      ]
+    },
+    {
+      "passage_id": "W133",
+      "primary": "Banking Capital & Liquidity",
+      "others": [
+        "Systemic Financial Risk"
+      ]
+    },
+    {
+      "passage_id": "W134",
+      "primary": "Banking Capital & Liquidity",
+      "others": [
+        "Systemic Financial Risk"
+      ]
+    },
+    {
+      "passage_id": "W135",
+      "primary": "Banking Capital & Liquidity",
+      "others": [
+        "Systemic Financial Risk"
+      ]
+    },
+    {
+      "passage_id": "W136",
+      "primary": "Banking Capital & Liquidity",
+      "others": [
+        "Interest Rates & Credit"
+      ]
+    },
+    {
+      "passage_id": "W137",
+      "primary": "Banking Capital & Liquidity",
+      "others": []
+    },
+    {
+      "passage_id": "W138",
+      "primary": "Banking Capital & Liquidity",
+      "others": [
+        "Systemic Financial Risk"
+      ]
+    },
+    {
+      "passage_id": "W139",
+      "primary": "Systemic Financial Risk",
+      "others": [
+        "Banking Capital & Liquidity"
+      ]
+    },
+    {
+      "passage_id": "W140",
+      "primary": "Banking Capital & Liquidity",
+      "others": [
+        "Systemic Financial Risk"
+      ]
+    },
+    {
+      "passage_id": "W141",
+      "primary": "Systemic Financial Risk",
+      "others": [
+        "Banking Capital & Liquidity"
+      ]
+    },
+    {
+      "passage_id": "W142",
+      "primary": "Systemic Financial Risk",
+      "others": []
+    },
+    {
+      "passage_id": "W143",
+      "primary": "none",
+      "others": []
+    },
+    {
+      "passage_id": "W144",
+      "primary": "none",
+      "others": []
+    },
+    {
+      "passage_id": "W145",
+      "primary": "none",
+      "others": []
+    },
+    {
+      "passage_id": "W146",
+      "primary": "none",
+      "others": []
+    },
+    {
+      "passage_id": "W147",
+      "primary": "none",
+      "others": []
+    },
+    {
+      "passage_id": "W148",
+      "primary": "none",
+      "others": [
+        "Labor Market Dynamics"
+      ]
+    },
+    {
+      "passage_id": "W149",
+      "primary": "none",
+      "others": []
+    },
+    {
+      "passage_id": "W150",
+      "primary": "none",
+      "others": []
+    },
+    {
+      "passage_id": "W151",
+      "primary": "none",
+      "others": [
+        "Banking Capital & Liquidity"
+      ]
+    },
+    {
+      "passage_id": "W152",
+      "primary": "Banking Capital & Liquidity",
+      "others": [
+        "Systemic Financial Risk"
+      ]
+    },
+    {
+      "passage_id": "W153",
+      "primary": "Systemic Financial Risk",
+      "others": [
+        "Banking Capital & Liquidity",
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W154",
+      "primary": "none",
+      "others": [
+        "Banking Capital & Liquidity",
+        "Systemic Financial Risk",
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W155",
+      "primary": "none",
+      "others": [
+        "Labor Market Dynamics",
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W156",
+      "primary": "Sovereign Debt",
+      "others": [
+        "Labor Market Dynamics"
+      ]
+    },
+    {
+      "passage_id": "W157",
+      "primary": "Banking Capital & Liquidity",
+      "others": [
+        "Systemic Financial Risk",
+        "Sovereign Debt",
+        "Labor Market Dynamics"
+      ]
+    },
+    {
+      "passage_id": "W158",
+      "primary": "Inflation & Prices",
+      "others": [
+        "Interest Rates & Credit"
+      ]
+    },
+    {
+      "passage_id": "W159",
+      "primary": "Banking Capital & Liquidity",
+      "others": [
+        "Systemic Financial Risk",
+        "Interest Rates & Credit"
+      ]
+    },
+    {
+      "passage_id": "W160",
+      "primary": "none",
+      "others": [
+        "Interest Rates & Credit",
+        "Labor Market Dynamics"
+      ]
+    },
+    {
+      "passage_id": "W161",
+      "primary": "none",
+      "others": [
+        "Inflation & Prices",
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W162",
+      "primary": "none",
+      "others": []
+    },
+    {
+      "passage_id": "W163",
+      "primary": "none",
+      "others": [
+        "Inflation & Prices",
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W164",
+      "primary": "none",
+      "others": [
+        "Inflation & Prices",
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W165",
+      "primary": "none",
+      "others": []
+    },
+    {
+      "passage_id": "W166",
+      "primary": "none",
+      "others": [
+        "Interest Rates & Credit"
+      ]
+    },
+    {
+      "passage_id": "W167",
+      "primary": "none",
+      "others": [
+        "Inflation & Prices",
+        "Interest Rates & Credit",
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W168",
+      "primary": "none",
+      "others": [
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W169",
+      "primary": "none",
+      "others": [
+        "Labor Market Dynamics",
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W170",
+      "primary": "none",
+      "others": []
+    },
+    {
+      "passage_id": "W171",
+      "primary": "none",
+      "others": [
+        "Labor Market Dynamics",
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W172",
+      "primary": "none",
+      "others": []
+    },
+    {
+      "passage_id": "W173",
+      "primary": "none",
+      "others": []
+    },
+    {
+      "passage_id": "W174",
+      "primary": "none",
+      "others": []
+    },
+    {
+      "passage_id": "W175",
+      "primary": "none",
+      "others": []
+    },
+    {
+      "passage_id": "W176",
+      "primary": "none",
+      "others": [
+        "Labor Market Dynamics",
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W177",
+      "primary": "none",
+      "others": []
+    },
+    {
+      "passage_id": "W178",
+      "primary": "none",
+      "others": []
+    },
+    {
+      "passage_id": "W179",
+      "primary": "none",
+      "others": []
+    },
+    {
+      "passage_id": "W180",
+      "primary": "none",
+      "others": [
+        "Inflation & Prices",
+        "Interest Rates & Credit",
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W181",
+      "primary": "Sovereign Debt",
+      "others": [
+        "Interest Rates & Credit"
+      ]
+    },
+    {
+      "passage_id": "W182",
+      "primary": "Sovereign Debt",
+      "others": []
+    },
+    {
+      "passage_id": "W183",
+      "primary": "none",
+      "others": []
+    },
+    {
+      "passage_id": "W184",
+      "primary": "none",
+      "others": []
+    },
+    {
+      "passage_id": "W185",
+      "primary": "none",
+      "others": []
+    },
+    {
+      "passage_id": "W186",
+      "primary": "none",
+      "others": []
+    },
+    {
+      "passage_id": "W187",
+      "primary": "none",
+      "others": []
+    },
+    {
+      "passage_id": "W188",
+      "primary": "none",
+      "others": []
+    },
+    {
+      "passage_id": "W189",
+      "primary": "none",
+      "others": []
+    },
+    {
+      "passage_id": "W190",
+      "primary": "none",
+      "others": [
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W191",
+      "primary": "none",
+      "others": [
+        "Labor Market Dynamics",
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W192",
+      "primary": "Systemic Financial Risk",
+      "others": []
+    },
+    {
+      "passage_id": "W193",
+      "primary": "none",
+      "others": [
+        "Inflation & Prices"
+      ]
+    },
+    {
+      "passage_id": "W194",
+      "primary": "Inflation & Prices",
+      "others": [
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W195",
+      "primary": "Sovereign Debt",
+      "others": []
+    },
+    {
+      "passage_id": "W196",
+      "primary": "Sovereign Debt",
+      "others": []
+    },
+    {
+      "passage_id": "W197",
+      "primary": "Interest Rates & Credit",
+      "others": [
+        "Inflation & Prices",
+        "Sovereign Debt"
+      ]
+    },
+    {
+      "passage_id": "W198",
+      "primary": "Banking Capital & Liquidity",
+      "others": [
+        "Inflation & Prices",
+        "Interest Rates & Credit"
+      ]
+    },
+    {
+      "passage_id": "W199",
+      "primary": "Banking Capital & Liquidity",
+      "others": [
+        "Interest Rates & Credit",
+        "Systemic Financial Risk"
+      ]
+    },
+    {
+      "passage_id": "W200",
+      "primary": "none",
+      "others": [
+        "Labor Market Dynamics"
+      ]
+    },
+    {
+      "passage_id": "W201",
+      "primary": "none",
+      "others": [
+        "Sovereign Debt"
+      ]
+    }
+  ]
+}

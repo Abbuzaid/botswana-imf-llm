@@ -1,0 +1,1224 @@
+{
+  "series": [
+    {
+      "table": "Table 1",
+      "row": "Real GDP",
+      "values": {
+        "2022": 5.5,
+        "2023": 3.2,
+        "2024": -3.0,
+        "2025": -1.0,
+        "2026": 2.7,
+        "2027": 3.8,
+        "2028": 4.1,
+        "2029": 4.0,
+        "2030": 4.0
+      }
+    },
+    {
+      "table": "Table 1",
+      "row": "Mineral",
+      "values": {
+        "2022": 7.6,
+        "2023": 2.9,
+        "2024": -24.1,
+        "2025": -13.5,
+        "2026": 3.6,
+        "2027": 8.6,
+        "2028": 7.4,
+        "2029": 5.0,
+        "2030": 5.0
+      }
+    },
+    {
+      "table": "Table 1",
+      "row": "Nonmineral",
+      "values": {
+        "2022": 4.9,
+        "2023": 3.3,
+        "2024": 2.8,
+        "2025": 1.5,
+        "2026": 2.5,
+        "2027": 3.0,
+        "2028": 3.5,
+        "2029": 3.8,
+        "2030": 3.8
+      }
+    },
+    {
+      "table": "Table 1",
+      "row": "Consumer prices (average)",
+      "values": {
+        "2022": 12.2,
+        "2023": 5.1,
+        "2024": 2.8,
+        "2025": 3.4,
+        "2026": 4.8,
+        "2027": 4.5,
+        "2028": 4.5,
+        "2029": 4.5,
+        "2030": 4.5
+      }
+    },
+    {
+      "table": "Table 1",
+      "row": "Diamond production (millions of carats)",
+      "values": {
+        "2022": 24.5,
+        "2023": 25.1,
+        "2024": 17.9,
+        "2025": 14.8,
+        "2026": 15.3,
+        "2027": 16.9,
+        "2028": 18.3,
+        "2029": 19.3,
+        "2030": 20.3
+      }
+    },
+    {
+      "table": "Table 1",
+      "row": "Overall balance (deficit -)",
+      "values": {
+        "2022": 0.0,
+        "2023": -4.3,
+        "2024": -7.1,
+        "2025": -8.8,
+        "2026": -8.0,
+        "2027": -7.5,
+        "2028": -7.2,
+        "2029": -7.0,
+        "2030": -7.0
+      }
+    },
+    {
+      "table": "Table 1",
+      "row": "Total central government debt",
+      "values": {
+        "2022": 21.0,
+        "2023": 22.5,
+        "2024": 33.1,
+        "2025": 40.7,
+        "2026": 46.0,
+        "2027": 50.4,
+        "2028": 53.9,
+        "2029": 56.9,
+        "2030": 59.7
+      }
+    },
+    {
+      "table": "Table 1",
+      "row": "Current account balance",
+      "values": {
+        "2022": -0.6,
+        "2023": 1.5,
+        "2024": -4.2,
+        "2025": -6.0,
+        "2026": -4.2,
+        "2027": -2.8,
+        "2028": -2.1,
+        "2029": -2.0,
+        "2030": -2.0
+      }
+    },
+    {
+      "table": "Table 1",
+      "row": "Months of imports of goods and services",
+      "values": {
+        "2022": 7.1,
+        "2023": 7.0,
+        "2024": 5.4,
+        "2025": 4.4,
+        "2026": 3.5,
+        "2027": 2.6,
+        "2028": 1.9,
+        "2029": 1.3,
+        "2030": 0.6
+      }
+    },
+    {
+      "table": "Table 5",
+      "row": "Regulatory capital to risk-weighted assets",
+      "values": {
+        "2017": 21.9,
+        "2018": 17.9,
+        "2019": 18.5,
+        "2020": 20.0,
+        "2021": 17.4,
+        "2022": 19.8,
+        "2023": 19.6,
+        "2024": 19.5,
+        "2025": 19.1
+      }
+    },
+    {
+      "table": "Table 5",
+      "row": "Regulatory tier 1 capital to risk-weighted assets",
+      "values": {
+        "2017": 15.0,
+        "2018": 13.2,
+        "2019": 13.4,
+        "2020": 13.8,
+        "2021": 12.5,
+        "2022": 12.9,
+        "2023": 13.2,
+        "2024": 12.7,
+        "2025": 13.5
+      }
+    },
+    {
+      "table": "Table 5",
+      "row": "Nonperforming loans to total gross loans",
+      "values": {
+        "2017": 5.3,
+        "2018": 5.4,
+        "2019": 4.8,
+        "2020": 4.3,
+        "2021": 4.2,
+        "2022": 3.8,
+        "2023": 3.7,
+        "2024": 3.4,
+        "2025": 3.2
+      }
+    },
+    {
+      "table": "Table 5",
+      "row": "Bank provisions to nonperforming loans",
+      "values": {
+        "2017": 53.7,
+        "2018": 42.7,
+        "2019": 59.0,
+        "2020": 60.2,
+        "2021": 56.6,
+        "2022": 51.0,
+        "2023": 49.0,
+        "2024": 49.3,
+        "2025": 49.9
+      }
+    },
+    {
+      "table": "Table 5",
+      "row": "Liquid assets to total assets",
+      "values": {
+        "2017": 13.4,
+        "2018": 14.3,
+        "2019": 14.7,
+        "2020": 14.7,
+        "2021": 12.7,
+        "2022": 13.4,
+        "2023": 12.2,
+        "2024": 12.6,
+        "2025": 12.2
+      }
+    }
+  ],
+  "cells": [
+    {
+      "table": "Table 1",
+      "row": "Real GDP",
+      "year": 2022,
+      "parser": 5.5,
+      "llm": 5.5,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Real GDP",
+      "year": 2023,
+      "parser": 3.2,
+      "llm": 3.2,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Real GDP",
+      "year": 2024,
+      "parser": -3.0,
+      "llm": -3.0,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Real GDP",
+      "year": 2025,
+      "parser": -1.0,
+      "llm": -1.0,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Real GDP",
+      "year": 2026,
+      "parser": 2.7,
+      "llm": 2.7,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Real GDP",
+      "year": 2027,
+      "parser": 3.8,
+      "llm": 3.8,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Real GDP",
+      "year": 2028,
+      "parser": 4.1,
+      "llm": 4.1,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Real GDP",
+      "year": 2029,
+      "parser": 4.0,
+      "llm": 4.0,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Real GDP",
+      "year": 2030,
+      "parser": 4.0,
+      "llm": 4.0,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Mineral",
+      "year": 2022,
+      "parser": 7.6,
+      "llm": 7.6,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Mineral",
+      "year": 2023,
+      "parser": 2.9,
+      "llm": 2.9,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Mineral",
+      "year": 2024,
+      "parser": -24.1,
+      "llm": -24.1,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Mineral",
+      "year": 2025,
+      "parser": -13.5,
+      "llm": -13.5,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Mineral",
+      "year": 2026,
+      "parser": 3.6,
+      "llm": 3.6,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Mineral",
+      "year": 2027,
+      "parser": 8.6,
+      "llm": 8.6,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Mineral",
+      "year": 2028,
+      "parser": 7.4,
+      "llm": 7.4,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Mineral",
+      "year": 2029,
+      "parser": 5.0,
+      "llm": 5.0,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Mineral",
+      "year": 2030,
+      "parser": 5.0,
+      "llm": 5.0,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Nonmineral",
+      "year": 2022,
+      "parser": 4.9,
+      "llm": 4.9,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Nonmineral",
+      "year": 2023,
+      "parser": 3.3,
+      "llm": 3.3,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Nonmineral",
+      "year": 2024,
+      "parser": 2.8,
+      "llm": 2.8,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Nonmineral",
+      "year": 2025,
+      "parser": 1.5,
+      "llm": 1.5,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Nonmineral",
+      "year": 2026,
+      "parser": 2.5,
+      "llm": 2.5,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Nonmineral",
+      "year": 2027,
+      "parser": 3.0,
+      "llm": 3.0,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Nonmineral",
+      "year": 2028,
+      "parser": 3.5,
+      "llm": 3.5,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Nonmineral",
+      "year": 2029,
+      "parser": 3.8,
+      "llm": 3.8,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Nonmineral",
+      "year": 2030,
+      "parser": 3.8,
+      "llm": 3.8,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Consumer prices (average)",
+      "year": 2022,
+      "parser": 12.2,
+      "llm": 12.2,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Consumer prices (average)",
+      "year": 2023,
+      "parser": 5.1,
+      "llm": 5.1,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Consumer prices (average)",
+      "year": 2024,
+      "parser": 2.8,
+      "llm": 2.8,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Consumer prices (average)",
+      "year": 2025,
+      "parser": 3.4,
+      "llm": 3.4,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Consumer prices (average)",
+      "year": 2026,
+      "parser": 4.8,
+      "llm": 4.8,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Consumer prices (average)",
+      "year": 2027,
+      "parser": 4.5,
+      "llm": 4.5,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Consumer prices (average)",
+      "year": 2028,
+      "parser": 4.5,
+      "llm": 4.5,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Consumer prices (average)",
+      "year": 2029,
+      "parser": 4.5,
+      "llm": 4.5,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Consumer prices (average)",
+      "year": 2030,
+      "parser": 4.5,
+      "llm": 4.5,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Diamond production (millions of carats)",
+      "year": 2022,
+      "parser": 24.5,
+      "llm": 24.5,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Diamond production (millions of carats)",
+      "year": 2023,
+      "parser": 25.1,
+      "llm": 25.1,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Diamond production (millions of carats)",
+      "year": 2024,
+      "parser": 17.9,
+      "llm": 17.9,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Diamond production (millions of carats)",
+      "year": 2025,
+      "parser": 14.8,
+      "llm": 14.8,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Diamond production (millions of carats)",
+      "year": 2026,
+      "parser": 15.3,
+      "llm": 15.3,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Diamond production (millions of carats)",
+      "year": 2027,
+      "parser": 16.9,
+      "llm": 16.9,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Diamond production (millions of carats)",
+      "year": 2028,
+      "parser": 18.3,
+      "llm": 18.3,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Diamond production (millions of carats)",
+      "year": 2029,
+      "parser": 19.3,
+      "llm": 19.3,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Diamond production (millions of carats)",
+      "year": 2030,
+      "parser": 20.3,
+      "llm": 20.3,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Overall balance (deficit -)",
+      "year": 2022,
+      "parser": 0.0,
+      "llm": 0.0,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Overall balance (deficit -)",
+      "year": 2023,
+      "parser": -4.3,
+      "llm": -4.3,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Overall balance (deficit -)",
+      "year": 2024,
+      "parser": -7.1,
+      "llm": -7.1,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Overall balance (deficit -)",
+      "year": 2025,
+      "parser": -8.8,
+      "llm": -8.8,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Overall balance (deficit -)",
+      "year": 2026,
+      "parser": -8.0,
+      "llm": -8.0,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Overall balance (deficit -)",
+      "year": 2027,
+      "parser": -7.5,
+      "llm": -7.5,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Overall balance (deficit -)",
+      "year": 2028,
+      "parser": -7.2,
+      "llm": -7.2,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Overall balance (deficit -)",
+      "year": 2029,
+      "parser": -7.0,
+      "llm": -7.0,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Overall balance (deficit -)",
+      "year": 2030,
+      "parser": -7.0,
+      "llm": -7.0,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Total central government debt",
+      "year": 2022,
+      "parser": 21.0,
+      "llm": 21.0,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Total central government debt",
+      "year": 2023,
+      "parser": 22.5,
+      "llm": 22.5,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Total central government debt",
+      "year": 2024,
+      "parser": 33.1,
+      "llm": 33.1,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Total central government debt",
+      "year": 2025,
+      "parser": 40.7,
+      "llm": 40.7,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Total central government debt",
+      "year": 2026,
+      "parser": 46.0,
+      "llm": 46.0,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Total central government debt",
+      "year": 2027,
+      "parser": 50.4,
+      "llm": 50.4,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Total central government debt",
+      "year": 2028,
+      "parser": 53.9,
+      "llm": 53.9,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Total central government debt",
+      "year": 2029,
+      "parser": 56.9,
+      "llm": 56.9,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Total central government debt",
+      "year": 2030,
+      "parser": 59.7,
+      "llm": 59.7,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Current account balance",
+      "year": 2022,
+      "parser": -0.6,
+      "llm": -0.6,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Current account balance",
+      "year": 2023,
+      "parser": 1.5,
+      "llm": 1.5,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Current account balance",
+      "year": 2024,
+      "parser": -4.2,
+      "llm": -4.2,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Current account balance",
+      "year": 2025,
+      "parser": -6.0,
+      "llm": -6.0,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Current account balance",
+      "year": 2026,
+      "parser": -4.2,
+      "llm": -4.2,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Current account balance",
+      "year": 2027,
+      "parser": -2.8,
+      "llm": -2.8,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Current account balance",
+      "year": 2028,
+      "parser": -2.1,
+      "llm": -2.1,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Current account balance",
+      "year": 2029,
+      "parser": -2.0,
+      "llm": -2.0,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Current account balance",
+      "year": 2030,
+      "parser": -2.0,
+      "llm": -2.0,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Months of imports of goods and services",
+      "year": 2022,
+      "parser": 7.1,
+      "llm": 7.1,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Months of imports of goods and services",
+      "year": 2023,
+      "parser": 7.0,
+      "llm": 7.0,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Months of imports of goods and services",
+      "year": 2024,
+      "parser": 5.4,
+      "llm": 5.4,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Months of imports of goods and services",
+      "year": 2025,
+      "parser": 4.4,
+      "llm": 4.4,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Months of imports of goods and services",
+      "year": 2026,
+      "parser": 3.5,
+      "llm": 3.5,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Months of imports of goods and services",
+      "year": 2027,
+      "parser": 2.6,
+      "llm": 2.6,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Months of imports of goods and services",
+      "year": 2028,
+      "parser": 1.9,
+      "llm": 1.9,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Months of imports of goods and services",
+      "year": 2029,
+      "parser": 1.3,
+      "llm": 1.3,
+      "match": true
+    },
+    {
+      "table": "Table 1",
+      "row": "Months of imports of goods and services",
+      "year": 2030,
+      "parser": 0.6,
+      "llm": 0.6,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Regulatory capital to risk-weighted assets",
+      "year": 2017,
+      "parser": 21.9,
+      "llm": 21.9,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Regulatory capital to risk-weighted assets",
+      "year": 2018,
+      "parser": 17.9,
+      "llm": 17.9,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Regulatory capital to risk-weighted assets",
+      "year": 2019,
+      "parser": 18.5,
+      "llm": 18.5,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Regulatory capital to risk-weighted assets",
+      "year": 2020,
+      "parser": 20.0,
+      "llm": 20.0,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Regulatory capital to risk-weighted assets",
+      "year": 2021,
+      "parser": 17.4,
+      "llm": 17.4,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Regulatory capital to risk-weighted assets",
+      "year": 2022,
+      "parser": 19.8,
+      "llm": 19.8,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Regulatory capital to risk-weighted assets",
+      "year": 2023,
+      "parser": 19.6,
+      "llm": 19.6,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Regulatory capital to risk-weighted assets",
+      "year": 2024,
+      "parser": 19.5,
+      "llm": 19.5,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Regulatory capital to risk-weighted assets",
+      "year": 2025,
+      "parser": 19.1,
+      "llm": 19.1,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Regulatory tier 1 capital to risk-weighted assets",
+      "year": 2017,
+      "parser": 15.0,
+      "llm": 15.0,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Regulatory tier 1 capital to risk-weighted assets",
+      "year": 2018,
+      "parser": 13.2,
+      "llm": 13.2,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Regulatory tier 1 capital to risk-weighted assets",
+      "year": 2019,
+      "parser": 13.4,
+      "llm": 13.4,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Regulatory tier 1 capital to risk-weighted assets",
+      "year": 2020,
+      "parser": 13.8,
+      "llm": 13.8,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Regulatory tier 1 capital to risk-weighted assets",
+      "year": 2021,
+      "parser": 12.5,
+      "llm": 12.5,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Regulatory tier 1 capital to risk-weighted assets",
+      "year": 2022,
+      "parser": 12.9,
+      "llm": 12.9,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Regulatory tier 1 capital to risk-weighted assets",
+      "year": 2023,
+      "parser": 13.2,
+      "llm": 13.2,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Regulatory tier 1 capital to risk-weighted assets",
+      "year": 2024,
+      "parser": 12.7,
+      "llm": 12.7,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Regulatory tier 1 capital to risk-weighted assets",
+      "year": 2025,
+      "parser": 13.5,
+      "llm": 13.5,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Nonperforming loans to total gross loans",
+      "year": 2017,
+      "parser": 5.3,
+      "llm": 5.3,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Nonperforming loans to total gross loans",
+      "year": 2018,
+      "parser": 5.4,
+      "llm": 5.4,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Nonperforming loans to total gross loans",
+      "year": 2019,
+      "parser": 4.8,
+      "llm": 4.8,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Nonperforming loans to total gross loans",
+      "year": 2020,
+      "parser": 4.3,
+      "llm": 4.3,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Nonperforming loans to total gross loans",
+      "year": 2021,
+      "parser": 4.2,
+      "llm": 4.2,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Nonperforming loans to total gross loans",
+      "year": 2022,
+      "parser": 3.8,
+      "llm": 3.8,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Nonperforming loans to total gross loans",
+      "year": 2023,
+      "parser": 3.7,
+      "llm": 3.7,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Nonperforming loans to total gross loans",
+      "year": 2024,
+      "parser": 3.4,
+      "llm": 3.4,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Nonperforming loans to total gross loans",
+      "year": 2025,
+      "parser": 3.2,
+      "llm": 3.2,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Bank provisions to nonperforming loans",
+      "year": 2017,
+      "parser": 53.7,
+      "llm": 53.7,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Bank provisions to nonperforming loans",
+      "year": 2018,
+      "parser": 42.7,
+      "llm": 42.7,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Bank provisions to nonperforming loans",
+      "year": 2019,
+      "parser": 59.0,
+      "llm": 59.0,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Bank provisions to nonperforming loans",
+      "year": 2020,
+      "parser": 60.2,
+      "llm": 60.2,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Bank provisions to nonperforming loans",
+      "year": 2021,
+      "parser": 56.6,
+      "llm": 56.6,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Bank provisions to nonperforming loans",
+      "year": 2022,
+      "parser": 51.0,
+      "llm": 51.0,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Bank provisions to nonperforming loans",
+      "year": 2023,
+      "parser": 49.0,
+      "llm": 49.0,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Bank provisions to nonperforming loans",
+      "year": 2024,
+      "parser": 49.3,
+      "llm": 49.3,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Bank provisions to nonperforming loans",
+      "year": 2025,
+      "parser": 49.9,
+      "llm": 49.9,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Liquid assets to total assets",
+      "year": 2017,
+      "parser": 13.4,
+      "llm": 13.4,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Liquid assets to total assets",
+      "year": 2018,
+      "parser": 14.3,
+      "llm": 14.3,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Liquid assets to total assets",
+      "year": 2019,
+      "parser": 14.7,
+      "llm": 14.7,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Liquid assets to total assets",
+      "year": 2020,
+      "parser": 14.7,
+      "llm": 14.7,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Liquid assets to total assets",
+      "year": 2021,
+      "parser": 12.7,
+      "llm": 12.7,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Liquid assets to total assets",
+      "year": 2022,
+      "parser": 13.4,
+      "llm": 13.4,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Liquid assets to total assets",
+      "year": 2023,
+      "parser": 12.2,
+      "llm": 12.2,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Liquid assets to total assets",
+      "year": 2024,
+      "parser": 12.6,
+      "llm": 12.6,
+      "match": true
+    },
+    {
+      "table": "Table 5",
+      "row": "Liquid assets to total assets",
+      "year": 2025,
+      "parser": 12.2,
+      "llm": 12.2,
+      "match": true
+    }
+  ]
+}
